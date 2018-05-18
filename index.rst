@@ -1,7 +1,7 @@
 
 ..  Important:: 
 
-    Fonte del testo: \ |LINK1|\  
+    \ |LINK1|\  
 
 \ |IMG1|\ 
 
@@ -10,13 +10,11 @@
 CONTRATTO PER IL GOVERNO DEL CAMBIAMENTO
 ########################################
 
-\ |STYLE0|\ . 
+\ |STYLE0|\ .   Il presente contratto è sottoscritto: dal Signor Luigi Di Maio Capo Politico del “MoVimento 5 Stelle” e dal Signor Matteo Salvini Segretario Federale della Lega.
 
-Il presente contratto è sottoscritto: dal Signor Luigi Di Maio Capo Politico del “MoVimento 5 Stelle” e dal Signor Matteo Salvini Segretario Federale della Lega.
+\ |STYLE1|\ . a norma dell’articolo 21, comma 2, del d.P.R. 28 dicembre 2000, n. 445, certifico che sono vere e autentiche le firme apposte in mia presenza dal sig. Luigi Di Maio, nato a Avellino il 6 luglio 1986, domiciliato in _____________il   seguente   documento: _________________________,  n____________________,  rilasciato  da   _______________  e  dal Sig. Matteo Salvini, nato a Milano il 9 marzo 1973, domiciliato in _____________________________________,   da   me   identificato   con   il   seguente   documento: _________________________, n____________________, rilasciato da _________________________________________.  I sottoscrittori sono stati preventivamente ammoniti sulla responsabilità penale nella quale possono incorrere in caso di dichiarazione mendace.
 
-AUTENTICAZIONE DELLE FIRME . a norma dell’articolo 21, comma 2, del d.P.R. 28 dicembre 2000, n. 445, certifico che sono vere e autentiche le firme apposte in mia presenza dal sig. Luigi Di Maio, nato a Avellino il 6 luglio 1986, domiciliato in _____________il   seguente   documento: _________________________,  n____________________,  rilasciato  da   _______________  e  dal Sig. Matteo Salvini, nato a Milano il 9 marzo 1973, domiciliato in _____________________________________,   da   me   identificato   con   il   seguente   documento: _________________________, n____________________, rilasciato da _________________________________________.  I sottoscrittori sono stati preventivamente ammoniti sulla responsabilità penale nella quale possono incorrere in caso di dichiarazione mendace.
-
-\ |STYLE1|\ 
+\ |STYLE2|\ 
 
 
 .. toctree::  
@@ -1030,12 +1028,14 @@ Gli Enti pubblici di Ricerca italiani (EPR) svolgono oggi attività essenziali p
 
 .. |STYLE0| replace:: **Bozza 17.05.2018, ore 11.00**
 
-.. |STYLE1| replace:: **Roma,  addì ________________2018. Firma leggibile (nome e cognome per esteso) e qualifica del pubblico ufficiale che procede all’autenticazione. Ai sensi dell’articolo 65 del d.lgs. 30 giugno 2003, n. 196, i dati contenuti nel presente modulo saranno utilizzati per le sole finalità previste dal d.P.R. 30 marzo 1957, n. 361, e successive  modificazioni,  dal  d.lgs.  20  dicembre  1993,  n.  533,  nonché  dalla legge  27 dicembre 2001, n. 459, secondo le modalità a ciò strettamente collegate.**
+.. |STYLE1| replace:: **AUTENTICAZIONE DELLE FIRME**
+
+.. |STYLE2| replace:: **Roma,  addì ________________2018. Firma leggibile (nome e cognome per esteso) e qualifica del pubblico ufficiale che procede all’autenticazione. Ai sensi dell’articolo 65 del d.lgs. 30 giugno 2003, n. 196, i dati contenuti nel presente modulo saranno utilizzati per le sole finalità previste dal d.P.R. 30 marzo 1957, n. 361, e successive  modificazioni,  dal  d.lgs.  20  dicembre  1993,  n.  533,  nonché  dalla legge  27 dicembre 2001, n. 459, secondo le modalità a ciò strettamente collegate.**
 
 
 .. |LINK1| raw:: html
 
-    <a href="http://www.repubblica.it/politica/2018/05/17/news/governo_m5s-lega_ecco_l_ultima_bozza_di_contratto-196613958" target="_blank">http://www.repubblica.it/politica/2018/05/17/news/governo_m5s-lega_ecco_l_ultima_bozza_di_contratto-196613958</a>
+    <a href="http://www.repubblica.it/politica/2018/05/17/news/governo_m5s-lega_ecco_l_ultima_bozza_di_contratto-196613958" target="_blank">Fonte del testo</a>
 
 
 .. |IMG1| image:: static/contratto-governo-2018-lega-m5stelle_1.png
