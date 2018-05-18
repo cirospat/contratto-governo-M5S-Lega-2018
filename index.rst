@@ -3,155 +3,27 @@
 
     Fonte del testo: \ |LINK1|\  
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h761ab401543201137a78553757464:
-
-\ |IMG1|\ ##########
+\ |IMG1|\ 
 
 .. _h57355329576a2e326a4116d7655f:
 
 CONTRATTO PER IL GOVERNO DEL CAMBIAMENTO
 ########################################
 
-Bozza 17.05.2018, ore 11.00
+\ |STYLE0|\ . 
 
-Il presente contratto è sottoscritto:
+Il presente contratto è sottoscritto: dal Signor Luigi Di Maio Capo Politico del “MoVimento 5 Stelle” e dal Signor Matteo Salvini Segretario Federale della Lega.
 
-dal Signor Luigi Di Maio Capo Politico del “MoVimento 5 Stelle”
-
-e dal Signor Matteo Salvini Segretario Federale della Lega
-
-AUTENTICAZIONE DELLE FIRME
-
-a norma dell’articolo 21, comma 2, del d.P.R. 28 dicembre 2000, n. 445, certifico che sono vere e autentiche le firme apposte in mia presenza dal sig. Luigi Di Maio, nato a Avellino il 6 luglio 1986, domiciliato in _____________il   seguente   documento:
-
-_________________________,  n____________________,  rilasciato  da   _______________  e  dal
-
-Sig. Matteo Salvini, nato a Milano il 9 marzo 1973, domiciliato in
-
-_____________________________________________________
-
-_________,   da   me   identificato   con   il   seguente   documento: _________________________, n____________________, rilasciato da _________________________________________.
-
-I sottoscrittori sono stati preventivamente ammoniti sulla responsabilità penale nella quale possono incorrere in caso di dichiarazione mendace.
-
-\ |STYLE0|\ 
+AUTENTICAZIONE DELLE FIRME . a norma dell’articolo 21, comma 2, del d.P.R. 28 dicembre 2000, n. 445, certifico che sono vere e autentiche le firme apposte in mia presenza dal sig. Luigi Di Maio, nato a Avellino il 6 luglio 1986, domiciliato in _____________il   seguente   documento: _________________________,  n____________________,  rilasciato  da   _______________  e  dal Sig. Matteo Salvini, nato a Milano il 9 marzo 1973, domiciliato in _____________________________________,   da   me   identificato   con   il   seguente   documento: _________________________, n____________________, rilasciato da _________________________________________.  I sottoscrittori sono stati preventivamente ammoniti sulla responsabilità penale nella quale possono incorrere in caso di dichiarazione mendace.
 
 \ |STYLE1|\ 
 
-\ |STYLE2|\ 
 
-Sommario
+.. toctree::  
+    :maxdepth: 3
+    :caption: Sommario
 
-* Il funzionamento del Governo e dei Gruppi Parlamentari 
-
-* Acqua pubblica 
-
-* Agricoltura e pesca - made in italy 
-
-* Ambiente, green economy e rifiuti zero 
-
-* Conflitto d’interessi 
-
-* Cultura
-
-* Debito pubblico e deficit 
-
-* Difesa
-
-* Esteri
-
-* Fisco: flat tax e semplificazione 
-
-* Sterilizzazione clausole IVA e accise
-
-* Detassazione e semplificazione per famiglie, imprese e partite IVA
-
-* Giustizia rapida ed efficiente 
-
-* Area Magistratura e tribunali 
-
-* Area penale, procedura penale e difesa sempre legittima 
-
-* Certezza della pena 
-
-* Area civile, procedura civile e costi della giustizia 
-
-* Diritto di famiglia 
-
-* Reati ambientali e tutela degli animali 
-
-* Contrasto alle mafie 
-
-* Ordinamento penitenziario 
-
-* Giustizia tributaria 
-
-* Immigrazione: rimpatri e stop al business
-
-* Lavoro
-
-* Lotta alla corruzione
-
-* Ministero per le disabilità
-
-* Pensioni. Stop legge fornero
-
-* Politiche per la Famiglia
-
-* Reddito di cittadinanza e pensione di cittadinanza
-
-* Reddito di cittadinanza
-
-* Pensione di cittadinanza
-
-* Riforme istituzionali, autonomia e democrazia diretta
-
-* Sanità
-
-* Sicurezza, legalità e forze dell’ordine
-
-* Forze dell’ordine
-
-* Polizia Locale e coordinamento con le forze dell’ordine statali
-
-* Cyber security e contrasto al bullismo
-
-* Gioco d’azzardo
-
-* Occupazioni abusive
-
-* Sicurezza stradale
-
-* Campi nomadi
-
-* Sport
-
-* Impianti
-
-* Società e Associazioni sportive
-
-* Sviluppo, crescita e risparmio
-
-* Banca per gli investimenti
-
-* Tutela del risparmio
-
-* Tagli dei costi della politica, dei costi delle istituzioni  e delle pensioni d’oro
-
-* Trasporti, infrastrutture e telecomunicazioni
-
-* Turismo
-
-* Scuola
-
-* Unione Europea
-
-* Università e ricerca
+    index
 
 .. _h314b4b44e6b31702b194f463c35526:
 
@@ -268,37 +140,23 @@ La più grande opera utile è restituire ai cittadini una rete di infrastrutture
 AGRICOLTURA E PESCA - MADE IN ITALY
 ***********************************
 
-Il settore agricolo italiano, uno dei più promettenti dell'economia, è da tempo impegnato a sopravvivere nella competizione globale dei mercati.
+Il settore agricolo italiano, uno dei più promettenti dell'economia, è da tempo impegnato a sopravvivere nella competizione globale dei mercati. 
 
-Gli agricoltori si muovono in un sistema governato da politiche di settore ormai quasi di competenza esclusiva della Politica Agricola Comune (PAC).
+Gli agricoltori si muovono in un sistema governato da politiche di settore ormai quasi di competenza esclusiva della Politica Agricola Comune (PAC). 
 
-Storicamente il Governo italiano è stato remissivo e rinunciatario in Europa rispetto alle esigenze  del  settore  agricolo,  preferendo  spesso  lasciare  il  campo  ad  interessi  europei opposti rispetto alle esigenze nazionali.
+Storicamente il Governo italiano è stato remissivo e rinunciatario in Europa rispetto alle esigenze  del  settore  agricolo,  preferendo  spesso  lasciare  il  campo  ad  interessi  europei opposti rispetto alle esigenze nazionali. 
 
-È necessaria una nuova presenza del Governo italiano a Bruxelles per riformare la politica agricola  comune  (PAC).  In  questo  contesto  è  imprescindibile  integrare  le  misure  di sostegno all'agricoltura, in specie quelle di sviluppo rurale, con interventi espressamente finalizza ti  a  realizzare  obiettivi  di  interesse  generale,  quali  la  tutela  del  paesaggio,  la difesa degli assetti idrogeologici, la sicurezza alimentare. 
+È necessaria una nuova presenza del Governo italiano a Bruxelles per riformare la politica agricola  comune  (PAC).  In  questo  contesto  è  imprescindibile  integrare  le  misure  di sostegno all'agricoltura, in specie quelle di sviluppo rurale, con interventi espressamente finalizzati  a  realizzare  obiettivi  di  interesse  generale,  quali  la  tutela  del  paesaggio,  la difesa degli assetti idrogeologici, la sicurezza alimentare.  
 
-Il nostro impegno per il futuro è quello di difendere la sovranità alimentare dell'Italia e
+Il nostro impegno per il futuro è quello di difendere la sovranità alimentare dell'Italia e tutelare le eccellenze del Made in Italy. 
 
-tutelare le eccellenze del Made in Italy.
+A  tal  fine  è  fondamentale  incidere  nel  contesto  normativo  dell'Unione  Europea  e condizionare le scelte all'interno della prossima riforma della PAC, nonché individuare strumenti per garantire tempi certi nell’attribuzione ed erogazione, da parte delle Regioni, dei fondi della PAC. 
 
-A  tal  fine  è  fondamentale  incidere  nel  contesto  normativo  dell'Unione  Europea  e
+Il  settore  agricolo  avrà  altresì  bisogno  di  un  nuovo  approccio  europeo  agli  accordi  di libero  scambio  con  i  paesi terzi.  Sarà  quindi prioritario  fare in  modo che  questi  trattati siano necessariamente qualificati come misti dall’UE e pertanto, ratificati dagli  Stati Membri ed esaminati dai Parlamenti nazionali in base alle rispettive procedure di ratifica. 
 
-condizionare le scelte all'interno della prossima riforma della PAC, nonché individuare
+Riteniamo  prioritario,  a  tutela  del  Made  in  Italy,  adottare  un  sistema  di  etichettatura corretto e trasparente che garantisca una maggiore tutela dei consumatori. 
 
-strumenti per garantire tempi certi nell’attribuzione ed erogazione, da parte delle Regioni,
-
-dei fondi della PAC.
-
-Il  settore  agricolo  avrà  altresì  bisogno  di  un  nuovo  approccio  europeo  agli  accordi  di
-
-libero  scambio  con  i  paesi terzi.  Sarà  quindi prioritario  fare in  modo che  questi  trattati
-
-siano necessariamente qualificati come misti dall’UE e pertanto, ratificati dagli  Stati Membri ed esaminati dai Parlamenti nazionali in base alle rispettive procedure di ratifica.
-
-Riteniamo  prioritario,  a  tutela  del  Made  in  Italy,  adottare  un  sistema  di  etichettatura
-
-corretto e trasparente che garantisca una maggiore tutela dei consumatori.
-
-Altro  pilastro  dell'azione  di  governo  in  tema  di  agricoltura  deve  essere  la  riforma dell'Agenzia nazionale per le erogazioni in agricoltura (AGEA) e del Sistema informativo unificato di servizi del comparto agricolo (SIAN).
+Altro  pilastro  dell'azione  di  governo  in  tema  di  agricoltura  deve  essere  la  riforma dell'Agenzia nazionale per le erogazioni in agricoltura (AGEA) e del Sistema informativo unificato di servizi del comparto agricolo (SIAN). 
 
 Con riferimento alla pesca occorre intervenire per dare un concreto aiuto e un sostegno alla piccola pesca; riconsiderare in sede europea i vincoli e le direttive impartite al settore (come  quelle  che  impongono  i  “fermi  pesca”  non  basati  su  criteri  oggettivi  ma  su valutazione di carattere burocratico) per meglio salvaguardare la pesca italiana.
 
@@ -408,9 +266,7 @@ Infine, ci impegniamo a razionalizzare lo spreco di risorse nelle spese militari
 ESTERI
 ******
 
-La  politica  estera  dei  prossimi  anni  dovrà  imperniarsi  su  alcuni  elementi  chiave  di
-
-primaria importanza.
+La  politica  estera  dei  prossimi  anni  dovrà  imperniarsi  su  alcuni  elementi  chiave  di primaria importanza.
 
 L’impegno  è  realizzare  una  politica  estera  che  si  basi sulla  centralità  dell’interesse nazionale e sul principio di non ingerenza negli affari interni dei singoli Stati. 
 
@@ -456,9 +312,7 @@ Punto di partenza è la revisione del sistema impositivo dei redditi delle perso
 
 La parola chiave è “flat tax”, caratterizzata dall’introduzione di aliquote fisse, con un sistema di deduzioni per garantire la progressività dell’imposta, in armonia con i principi costituzionali.
 
-In  particolare,  il  nuovo  regime fiscale  si  caratterizza  come  segue:
-
-due  aliquote  fisse  al 15%  e  al  20% per  persone  fisiche,  partite  IVA,  imprese e famiglie;  per  le  famiglie  è prevista una deduzione fissa di 3.000,00 euro sulla base del reddito familiare.
+In  particolare,  il  nuovo  regime fiscale  si  caratterizza  come  segue: due  aliquote  fisse  al 15%  e  al  20% per  persone  fisiche,  partite  IVA,  imprese e famiglie;  per  le  famiglie  è prevista una deduzione fissa di 3.000,00 euro sulla base del reddito familiare.
 
 La finalità è quella di non arrecare alcun svantaggio alle classi a basso reddito, per le quali resta confermato il principio della “no tax area” , nonché in generale di non arrecare alcun trattamento fiscale penalizzante rispetto all’attuale regime fiscale. 
 
@@ -496,11 +350,7 @@ GIUSTIZIA RAPIDA ED EFFICIENTE
 Area Magistratura e tribunali
 *****************************
 
-Il   Consiglio   Superiore   della   Magistratura   deve   operare   in   maniera   quanto   più
-
-indipendente da influenze politiche di potere interne o esterne. Sarà pertanto opportuno
-
-operare una  revisione  del  sistema  di  elezione,  sia per quanto  attiene i  componenti laici che  quelli  togati,  tale  da  rimuovere  le  attuali  logiche  spartitorie  e  correntizie  in  seno all’organo di autogoverno della magistratura.
+Il   Consiglio   Superiore   della   Magistratura   deve   operare   in   maniera   quanto   più indipendente da influenze politiche di potere interne o esterne. Sarà pertanto opportuno operare una  revisione  del  sistema  di  elezione,  sia per quanto  attiene i  componenti laici che  quelli  togati,  tale  da  rimuovere  le  attuali  logiche  spartitorie  e  correntizie  in  seno all’organo di autogoverno della magistratura.
 
 A tutela dell’indipendenza e dell’imparzialità del potere autonomo della magistratura, la funzione  giudiziaria  e  quella  parlamentare  debbono  rimanere  separate  tra  loro.  Il magistrato che vorrà intraprendere una carriera politica deve essere consapevole del fatto che, una volta eletto, non potrà tornare a vestire la toga. 
 
@@ -590,13 +440,9 @@ Si  propone  la  riforma  del  processo  tributario  con  l’istituzione  di  g
 IMMIGRAZIONE: RIMPATRI E STOP AL BUSINESS
 *****************************************
 
-La questione migratoria attuale risulta insostenibile per l’Italia, visti i costi da sopportare
+La questione migratoria attuale risulta insostenibile per l’Italia, visti i costi da sopportare e  il  business  connesso,  alimentato  da  fondi  pubblici  nazionali  spesso  gestiti  con  poca trasparenza e permeabili alle infiltrazioni della criminalità organizzata. 
 
-e  il  business  connesso,  alimentato  da  fondi  pubblici  nazionali  spesso  gestiti  con  poca
-
-trasparenza e permeabili alle infiltrazioni della criminalità organizzata.
-
-Il fallimento dell’attuale sistema di gestione dei flussi migratori rischia di mettere in discussione gli stessi accordi di Schengen.
+Il fallimento dell’attuale sistema di gestione dei flussi migratori rischia di mettere in discussione gli stessi accordi di Schengen. 
 
 L'Italia deve ricoprire un ruolo determinante ai tavoli dei negoziati europei in merito alle politiche  di  asilo  e  di  immigrazione.  Si  deve  puntare  alla  riduzione  della  pressione  dei flussi sulle frontiere esterne e del conseguente traffico di esseri umani e contestualmente, 17 nella  medesima  ottica,  ad  una  verifica  sulle  attuali  missioni  europee  nel  Mediterraneo, penalizzanti per il nostro Paese, in particolare per le clausole che prevedono l’approdo delle navi utilizzate per le operazioni nei nostri porti nazionali senza alcuna responsabilità condivisa dagli altri stati europei.
 
@@ -624,9 +470,7 @@ Ad  oggi  sarebbero  circa  500  mila  i  migranti  irregolari  presenti  sul  n
 
 Ai fini dell’espletamento delle procedure e dell’effettivo rimpatrio, il trattenimento deve essere  disposto  per  tutto il periodo necessario ad assicurare che l’allontanamento sia eseguito  in  un  tempo  massimo  complessivo  di  diciotto  mesi,  in  armonia  con  le disposizioni comunitarie.
 
-Nell’ottica di una gestione delle risorse pubbliche efficiente e congruente con le azioni politiche da attuare occorre, quindi, procedere ad una revisione dell’attuale destinazione 
-
-delle stesse in materia di asilo e immigrazione, in particolare prevedendo l’utilizzo di parte delle risorse stanziate per l’accoglienza per destinarle al Fondo rimpatri.
+Nell’ottica di una gestione delle risorse pubbliche efficiente e congruente con le azioni politiche da attuare occorre, quindi, procedere ad una revisione dell’attuale destinazione  delle stesse in materia di asilo e immigrazione, in particolare prevedendo l’utilizzo di parte delle risorse stanziate per l’accoglienza per destinarle al Fondo rimpatri.
 
 Infine,   occorre   una   necessaria   revisione   della   vigente   normativa   in   materia   di ricongiungimenti familiari e di sussidi sociali, al fine di evitare casi fittizi, l’indebito utilizzo dei sussidi erogati e garantire la loro effettiva sostenibilità rispetto alla condizione economica del nostro Paese.
 
@@ -641,9 +485,7 @@ Inoltre,  occorre  disporre  di  strumenti  adeguati  per  consentire  il  contr
 LAVORO
 ******
 
-Sul  tema  del  lavoro  appare  di  primaria  importanza  garantire  una  retribuzione  equa  al
-
-lavoratore in modo da assicurargli una vita e un lavoro dignitosi, in condizioni di libertà, equità,  sicurezza  e  dignità,  in  attuazione  dei  principi  sanciti  dall'articolo  36  della Costituzione.
+Sul  tema  del  lavoro  appare  di  primaria  importanza  garantire  una  retribuzione  equa  al lavoratore in modo da assicurargli una vita e un lavoro dignitosi, in condizioni di libertà, equità,  sicurezza  e  dignità,  in  attuazione  dei  principi  sanciti  dall'articolo  36  della Costituzione.
 
 A tal fine si ritiene necessaria l'introduzione di una legge salario minimo orario  che,  per  tutte  le  categorie  di  lavoratori  e  settori  produttivi  in  cui  la  retribuzione minima  non  sia  fissata  dalla  contrattazione  collettiva,  stabilisca  che  ogni  ora  del lavoratore  non  possa  essere  retribuita  al  di  sotto  di  una  certa  cifra.  Similmente  non potranno essere più gratuiti gli apprendistati per le libere professioni.
 
@@ -651,17 +493,13 @@ Al fine di favorire una pronta ripresa dell'occupazione e liberare le imprese da
 
 La cancellazione totale dei voucher ha creato non pochi disagi ai tanti settori per i quali questo mezzo di pagamento rappresentava, invece, uno strumento indispensabile. La sua sostituzione con il c.d. «libretto famiglia» e con il «contratto di prestazione occasionale» ha soltanto reso più complesso il ricorso al lavoro accessorio, col rischio di un aumento del  lavoro  sommerso.  Occorre  pertanto  porre  in  essere  una  riforma  complessiva  della normativa vigente volta ad introdurre un apposito strumento, chiaro e semplice, che non si presti ad abusi, attivabile per via telematica attraverso un'apposita piattaforma digitale, per la gestione dei rapporti di lavoro accessorio.
 
-Al  fine  di  tutelare  la  sicurezza  occupazionale  e  sociale,  è  importante  lo  sviluppo  e  il
-
-rafforzamento  di  politiche  attive  che  facilitino  l’occupazione,  la  ricollocazione  ed adeguate misure  di  sostegno al reddito e di protezione sociale. Ciò potrà essere attuato anzitutto  procedendo  ad  una  profonda  riforma  e  ad un  potenziamento  dei  centri  per l'impiego.
+Al  fine  di  tutelare  la  sicurezza  occupazionale  e  sociale,  è  importante  lo  sviluppo  e  il rafforzamento  di  politiche  attive  che  facilitino  l’occupazione,  la  ricollocazione  ed adeguate misure  di  sostegno al reddito e di protezione sociale. Ciò potrà essere attuato anzitutto  procedendo  ad  una  profonda  riforma  e  ad un  potenziamento  dei  centri  per l'impiego.
 
 Particolare  attenzione  sarà  rivolta  al  contrasto  della  precarietà  per  costruire  rapporti  di lavoro  più  stabili  e  consentire  alle  famiglie  una  programmazione  più  serena  del  loro futuro.
 
 Favorire  gli  investimenti  in  imprese  giovani,  innovative  e  tecnologiche,  significa scommettere sul futuro e valorizzare il merito e la ricerca. A tal fine appare necessaria anzitutto una profonda riorganizzazione della formazione finalizzata all’effettivo impiego e di qualità, che guardi non solo alla realtà odierna ma che investa sui settori del futuro al fine di adeguare il lavoro ai cambiamenti tecnologici e di offerta, attraverso processi di formazione  continua  dei  lavoratori.  Si  dovrà  inoltre  favorire,  nell'ambito  delle  scuole secondarie  di  secondo  grado  e  dell'università,  la  nascita  di  nuove  figure  professionali idonee alle competenze richieste dalla quarta rivoluzione industriale ed in possesso degli opportuni profili, nonché prevedere misure di sostegno alle micro e piccole imprese nel rinnovamento  dei  loro  processi  produttivi,  quale  presupposto  per  lo  sviluppo  di  una strategia che miri alla più ampia diffusione delle tecnologie avanzate. 
 
-È  necessario  inoltre  introdurre  misure  volte  a  garantire  un’adeguata  formazione
-
-secondaria superiore di tipo tecnico professionale, capace di assicurare ai nostri giovani l’accesso al mondo del lavoro e delle professioni manuali, tecniche e artigianali. 
+È  necessario  inoltre  introdurre  misure  volte  a  garantire  un’adeguata  formazione secondaria superiore di tipo tecnico professionale, capace di assicurare ai nostri giovani l’accesso al mondo del lavoro e delle professioni manuali, tecniche e artigianali. 
 
 .. _h14e2a6c4b437741e722d5534c7847:
 
@@ -687,129 +525,51 @@ Con riferimento all’indennità di invalidità civile proponiamo il suo innalza
 
 Bisogna dare completa attuazione alla Convenzione O.N.U. sul diritto alle persone con disabilità,  procedendo  ad  una  completa  revisione delle  leggi  esistenti  e  garantendo  che ogni scelta del legislatore s i collochi sempre nell’ambito di una piena consapevolezza che “le   persone   con   disabilità   includono   quanti   hanno   minorazioni   fisiche, mentali, intellettuali o sensoriali a lungo termine che in interazione con varie barriere possono impedire  la  loro  piena  ed effettiva  partecipazione  nella  società  su  una  base  di eguaglianza con gli altri”.
 
-Per  assicurare  protezione  e  inclusione  ai  soggetti  con  disabilità  o  non  autosufficienti  è necessario  superare  la  frammentazione  dell’intervento  pubblico  nazionale  e  locale,
+Per  assicurare  protezione  e  inclusione  ai  soggetti  con  disabilità  o  non  autosufficienti è necessario  superare  la  frammentazione  dell’intervento  pubblico  nazionale  e  locale, attraverso una governance coordinata e condivisa sugli interventi e la messa in rete degli erogatori degli interventi.
 
-attraverso una governance coordinata e condivisa sugli interventi e la messa in rete degli
+Bisogna assicurare il tempestivo aggiornamento delle agevolazioni per l’acquisto di beni e ausili per le persone con disabilità. 
 
-erogatori degli interventi.
+Deve essere garantita l’inclusione scolastica degli studenti con disabilità, attraverso una migliore specializzazione degli insegnanti per il sostegno e l’implementazione della loro presenza  in  aula.  Si  dovranno  individuare  percorsi  di  aggiornamento  per  i  docenti curricolari e per tutte le figure presenti nella scuola. È necessario un intervento culturale di contrasto ai pregiudizi sulle disabilità, assicurando che nel percorso didattico vi siano dei  momenti  di  ascolto  e  incontro  con  la  disabilità,  anche  con  il  coinvolgimento  delle associazioni dei disabili. 
 
-Bisogna assicurare il tempestivo aggiornamento delle agevolazioni per l’acquisto di beni
+Bisogna fare una ricognizione dello stato di attuazione della legge 68/99 sul collocamento al  lavoro  delle  categorie  protette,  con  una  particolare  attenzione  per  le  disabilità  gravi, assicurandone il rispetto nel pubblico e incentivando le assunzioni nel settore privato e, se necessario, contemplando percorsi lavorativi specifici per disabilità fisiche o psichiche. 
 
-e ausili per le persone con disabilità.
+È necessario garantire l’accessibilità di luoghi, beni e servizi attraverso un effettivo abbattimento  delle  barriere  architettoniche,  contemplando  anche  un  audit  civico  nella realizzazione di opere pubbliche. 
 
-Deve essere garantita l’inclusione scolastica degli studenti con disabilità, attraverso una
+Occorre implementare una “politica per la vita indipendente” che favorisca l’accesso delle persone con disabilità ad abitazioni di recente concezione o costruzione. Servono politiche  di housing sociale  che  coinvolgano  il  privato  e  introducano, negli  oneri  di urbanizzazione, quote da riservarsi alle persone con disabilità. 
 
-migliore specializzazione degli insegnanti per il sostegno e l’implementazione della loro
+Bisogna  favorire  il cohousing e  organizzare  corsi  di  formazione  specifica,  tenuti  da personale  sanitario  e  tramite  incontri  di  auto mutuo aiuto,  per  aumentare  conoscenze  e competenze dei caregivers. 
 
-presenza  in  aula.  Si  dovranno  individuare  percorsi  di  aggiornamento  per  i  docenti
+È necessario garantire la completa accessibilità dei contenuti e documenti della Pubblica Amministrazione, in ottemperanza alla Direttiva UE 2016/2102 del Parlamento Europeo e  del  Consiglio  del  26  ottobre  2016,  relativa  all’accessibilità  dei  siti  web  e  delle applicazioni mobili degli enti pubblici.
 
-curricolari e per tutte le figure presenti nella scuola. È necessario un intervento culturale
+Inoltre, al fine di dare adeguata rappresentanza alla disabilità nell’agenda politica, ci impegniamo ad istituire un dicastero dedicato. 
 
-di contrasto ai pregiudizi sulle disabilità, assicurando che nel percorso didattico vi siano
-
-dei  momenti  di  ascolto  e  incontro  con  la  disabilità,  anche  con  il  coinvolgimento  delle
-
-associazioni dei disabili.
-
-Bisogna fare una ricognizione dello stato di attuazione della legge 68/99 sul collocamento
-
-al  lavoro  delle  categorie  protette,  con  una  particolare  attenzione  per  le  disabilità  gravi, assicurandone il rispetto nel pubblico e incentivando le assunzioni nel settore privato e, se necessario, contemplando percorsi lavorativi specifici per disabilità fisiche o psichiche.
-
-È necessario garantire l’accessibilità di luoghi, beni e servizi attraverso un effettivo
-
-abbattimento  delle  barriere  architettoniche,  contemplando  anche  un  audit  civico  nella
-
-realizzazione di opere pubbliche.
-
-Occorre implementare una “politica per la vita indipendente” che favorisca l’accesso
-
-delle persone con disabilità ad abitazioni di recente concezione o costruzione. Servono
-
-politiche  di housing sociale  che  coinvolgano  il  privato  e  introducano, negli  oneri  di
-
-urbanizzazione, quote da riservarsi alle persone con disabilità. 
-
-Bisogna  favorire  il cohousing e  organizzare  corsi  di  formazione  specifica,  tenuti  da personale  sanitario  e  tramite  incontri  di  auto mutuo aiuto,  per  aumentare  conoscenze  e competenze dei caregivers.
-
-È necessario garantire la completa accessibilità dei contenuti e documenti della Pubblica
-
-Amministrazione, in ottemperanza alla Direttiva UE 2016/2102 del Parlamento Europeo
-
-e  del  Consiglio  del  26  ottobre  2016,  relativa  all’accessibilità  dei  siti  web  e  delle
-
-applicazioni mobili degli enti pubblici.
-
-Inoltre, al fine di dare adeguata rappresentanza alla disabilità nell’agenda politica, ci impegniamo ad istituire un dicastero dedicato.
-
-Si dovrà infine garantire un’adeguata rappresentanza anche attraverso l’istituzione di un
-
-Garante  regionale  quale  figura  di  riferimento  in  caso  di  inadempienze  e  violazioni  dei
-
-diritti delle persone con disabilità.
+Si dovrà infine garantire un’adeguata rappresentanza anche attraverso l’istituzione di un Garante  regionale  quale  figura  di  riferimento  in  caso  di  inadempienze  e  violazioni  dei diritti delle persone con disabilità.
 
 .. _h14e30294e7b645a7c201341114f4426:
 
 PENSIONI. STOP LEGGE FORNERO
 ****************************
 
-Occorre provvedere all’abolizione  degli  squilibri  del  sistema  previdenziale  introdotti
+Occorre provvedere all’abolizione  degli  squilibri  del  sistema  previdenziale  introdotti dalla riforma delle pensioni cd. “Fornero”, stanziando 5 miliardi per agevolare l’uscita dal mercato del lavoro delle categorie ad oggi escluse. 
 
-dalla riforma delle pensioni cd. “Fornero”, stanziando 5 miliardi per agevolare l’uscita
+Daremo fin da subito la possibilità di uscire dal lavoro quando la somma dell’età e degli anni di contributi del lavoratore è almeno pari a 100, con l’obiettivo di consentire il raggiungimento dell’età pensionabile con 41 anni di anzianità contributiva, tenuto altresì conto dei lavoratori impegnati in mansioni usuranti.
 
-dal mercato del lavoro delle categorie ad oggi escluse.
+Inoltre  è  necessario  riordinare  il  sistema  del  welfare  prevedendo  la  separazione  tra previdenza e assistenza. 
 
-Daremo fin da subito la possibilità di uscire dal lavoro quando la somma dell’età e degli
-
-anni di contributi del lavoratore è almeno pari a 100, con l’obiettivo di consentire il raggiungimento dell’età pensionabile con 41 anni di anzianità contributiva, tenuto altresì
-
-conto dei lavoratori impegnati in mansioni usuranti.
-
-Inoltre  è  necessario  riordinare  il  sistema  del  welfare  prevedendo  la  separazione  tra
-
-previdenza e assistenza.
-
-Prorogheremo la misura sperimentale “opzione donna” che permette alle lavoratrici con
-
-57 - 58 anni e 35 anni di contributi di andare in quiescenza subito, optando in toto per il
-
-regime  contributivo.  Prorogheremo  tale  misura  sperimentale,  utilizzando  le  risorse
-
-disponibili.
+Prorogheremo la misura sperimentale “opzione donna” che permette alle lavoratrici con 57 - 58 anni e 35 anni di contributi di andare in quiescenza subito, optando in toto per il regime  contributivo.  Prorogheremo  tale  misura  sperimentale,  utilizzando  le  risorse disponibili.
 
 .. _h37172953918412124c5e587a757d48:
 
 POLITICHE PER LA FAMIGLIA
 *************************
 
-È  necessario  rifinanziare  gli  Enti  Locali  dando  priorità  al  welfare  familiare  (come  ad
+È  necessario  rifinanziare  gli  Enti  Locali  dando  priorità  al  welfare  familiare  (come  ad esempio  il  sostegno  per  servizi  di  asilo  nido  in  forma  gratuita  a  favore  delle  famiglie italiane e straniere residenti in Italia da almeno 5 anni, le politiche per le donne, per gli anziani e la terza età, il sostegno alle periferie), in un’ottica di sinergia  tra  tutte  le componenti dello Stato per raggiungere gli obiettivi di sviluppo economico di qualità e per far uscire il Paese dalla crisi economica.
 
-esempio  il  sostegno  per  servizi  di  asilo  nido  in  forma  gratuita  a  favore  delle  famiglie
+Occorre  introdurre  politiche  efficaci  per  la  famiglia,  per  consentire  alle  donne  di conciliare i tempi della famiglia con quelli del lavoro, anche attraverso servizi e sostegni reddituali  adeguati.  Inoltre,  è  necessario  prevedere:  l’innalzamento  dell’indennità  di maternità, un premio economico a maternità conclusa per le donne che rientrano al lavoro e sgravi contributivi per le imprese che mantengono al lavoro le madri dopo la nascita dei figli. 
 
-italiane e straniere residenti in Italia da almeno 5 anni, le politiche per le donne, per gli
+Occorre  introdurre  agevolazioni  alle  famiglie  attraverso:  rimborsi  per  asili  nido  e  baby sitter, fiscalità di vantaggio, tra cui “IVA a zero” per prodotti neonatali e per l’infanzia. 
 
-anziani e la terza età, il sostegno alle periferie), in un’ottica di sinergia  tra  tutte  le componenti dello Stato per raggiungere gli obiettivi di sviluppo economico di qualità e
-
-per far uscire il Paese dalla crisi economica.
-
-Occorre  introdurre  politiche  efficaci  per  la  famiglia,  per  consentire  alle  donne  di
-
-conciliare i tempi della famiglia con quelli del lavoro, anche attraverso servizi e sostegni
-
-reddituali  adeguati.  Inoltre,  è  necessario  prevedere:  l’innalzamento  dell’indennità  di
-
-maternità, un premio economico a maternità conclusa per le donne che rientrano al lavoro e sgravi contributivi per le imprese che mantengono al lavoro le madri dopo la nascita dei
-
-figli.
-
-Occorre  introdurre  agevolazioni  alle  famiglie  attraverso:  rimborsi  per  asili  nido  e  baby
-
-sitter, fiscalità di vantaggio, tra cui “IVA a zero” per prodotti neonatali e per l’infanzia.
-
-Importante attenzione va posta anche nei confronti della terza età con provvedimenti volti
-
-ad agevolare le famiglie con anziani a carico, compresa l’assistenza domiciliare anche
-
-tramite colf e badanti.
+Importante attenzione va posta anche nei confronti della terza età con provvedimenti volti ad agevolare le famiglie con anziani a carico, compresa l’assistenza domiciliare anche tramite colf e badanti.
 
 .. _h4150213c54b106c7e211f53356e4940:
 
@@ -821,54 +581,28 @@ REDDITO DI CITTADINANZA E PENSIONE DI CITTADINANZA
 Reddito di cittadinanza 
 ========================
 
-Il reddito di cittadinanza è una misura attiva rivolta ai cittadini italiani al fine di reinserirlo
+Il reddito di cittadinanza è una misura attiva rivolta ai cittadini italiani al fine di reinserirlo nella vita sociale e lavorativa del Paese. Garantisce la dignità̀ dell'individuo e funge da volano  per  esprimere le  potenzialità  lavorative  del  nostro  Paese,  favorendo  la  crescita occupazionale ed economica.
 
-nella vita sociale e lavorativa del Paese. Garantisce la dignità̀ dell'individuo e funge da volano  per  esprimere le  potenzialità  lavorative  del  nostro  Paese,  favorendo  la  crescita
-
-occupazionale ed economica.
-
-La misura si configura come uno strumento di sostegno al reddito per i cittadini italiani che versano in condizione di bisogno; l’ammontare dell’erogazione è stabilito in base alla
-
-soglia di rischio di povertà calcolata sia per il reddito che per il patrimonio. L'ammontare
-
-è fissato in 780,00 Euro mensili per persona singola, parametrato sulla base della scala
-
-OCSE per nuclei familiari più numerosi. A tal fine saranno stanziati 17 miliardi annui.
+La misura si configura come uno strumento di sostegno al reddito per i cittadini italiani che versano in condizione di bisogno; l’ammontare dell’erogazione è stabilito in base alla soglia di rischio di povertà calcolata sia per il reddito che per il patrimonio. L'ammontare è fissato in 780,00 Euro mensili per persona singola, parametrato sulla base della scala OCSE per nuclei familiari più numerosi. A tal fine saranno stanziati 17 miliardi annui.
 
 Al fine di consentire il reinserimento del cittadino nel mondo del lavoro, l’erogazione del reddito di cittadinanza presuppone un impegno attivo del beneficiario che dovrà aderire alle offerte di lavoro provenienti dai centri dell’impiego (massimo tre proposte nell’arco temporale di due anni), con decadenza dal beneficio in caso di rifiuto allo svolgimento dell’attività lavorativa richiesta. 
 
 La misura si basa su due direttrici guida che sono da un lato la tipologia di professionalità del lavoratore in questione e dall’altro la sinergia con la strategia di crescita economica mirata all’obiettivo della piena occupazione, innescata dalle politiche industriali volte a riconvertire  i  settori  produttivi,  così  da  sviluppare  la  necessaria  innovazione  per raggiungere uno sviluppo di qualità.
 
-Tale percorso prevede un investimento di 2 miliardi di euro per la riorganizzazione e il potenziamento dei centri per l’impiego che fungeranno da catalizzatore e riconversione lavorativa dei lavoratori che si trovano momentaneamente in stato di disoccupazione.
+Tale percorso prevede un investimento di 2 miliardi di euro per la riorganizzazione e il potenziamento dei centri per l’impiego che fungeranno da catalizzatore e riconversione lavorativa dei lavoratori che si trovano momentaneamente in stato di disoccupazione. 
 
-La pianificazione di un potenziamento generale di tutti i centri per l'impiego sul territorio nazionale è finalizzata  a:  incrementare  la  presenza,  efficienza  e  qualità dei  servizi  per
+La pianificazione di un potenziamento generale di tutti i centri per l'impiego sul territorio nazionale è finalizzata  a:  incrementare  la  presenza,  efficienza  e  qualità dei  servizi  per l'impiego;  identificare  e  definire  idonei  standard  di  prestazione  dei  servizi  da  erogare; adeguare i livelli formativi del personale operante.
 
-l'impiego;  identificare  e  definire  idonei  standard  di  prestazione  dei  servizi  da  erogare;
-
-adeguare i livelli formativi del personale operante.
-
-Andrà avviato un dialogo nelle sedi comunitarie al fine di applicare il provvedimento A8 - 0292/2017 approvato dal Parlamento europeo lo scorso 6 ottobre 2017, che garantirebbe
-
-l'utilizzo  del  20%  della  dotazione  complessiva  del  Fondo  Sociale  Europeo  (FSE)  per
-
-istituire un reddito di cittadinanza anche in Italia (unico paese europeo oltre la Grecia a non  prevedere  tale  misura),  anche  invitando  la  Commissione  europea  a  monitorare
-
-specificamente l'utilizzo del FSE per la lotta alla povertà e all'esclusione sociale.
+Andrà avviato un dialogo nelle sedi comunitarie al fine di applicare il provvedimento A8 - 0292/2017 approvato dal Parlamento europeo lo scorso 6 ottobre 2017, che garantirebbe l'utilizzo  del  20%  della  dotazione  complessiva  del  Fondo  Sociale  Europeo  (FSE)  per istituire un reddito di cittadinanza anche in Italia (unico paese europeo oltre la Grecia a non  prevedere  tale  misura),  anche  invitando  la  Commissione  europea  a  monitorare specificamente l'utilizzo del FSE per la lotta alla povertà e all'esclusione sociale.
 
 .. _h6f1c7918527f52724e116f12d541a:
 
 Pensione di cittadinanza
 ========================
 
-È necessario assegnare una pensione di cittadinanza a chi vive sotto la soglia minima di
+È necessario assegnare una pensione di cittadinanza a chi vive sotto la soglia minima di povertà.
 
-povertà.
-
-La  nostra  proposta  è  rappresentata da un’integrazione per un pensionato che ha un
-
-assegno  inferiore  ai  780,00  euro  mensili,  secondo  i  medesimi  parametri  previsti  per  il
-
-reddito di cittadinanza.
+La  nostra  proposta  è  rappresentata da un’integrazione per un pensionato che ha un assegno  inferiore  ai  780,00  euro  mensili,  secondo  i  medesimi  parametri  previsti  per  il reddito di cittadinanza.
 
 .. _h7e7c6f7964727337331c65646a334922:
 
@@ -879,180 +613,72 @@ Nell’ambito della fondamentale riforma delle istituzioni si rivela necessario 
 
 Occorre partire dalla drastica riduzione del numero dei parlamentari: 400 deputati e 200 senatori.  In  tal  modo,  sarà  più  agevole  organizzare  i  lavori  delle  Camere  e  diverrà  più efficiente  l'iter di  approvazione  delle  leggi,  senza  intaccare  in  alcun  modo  il  principio supremo  della  rappresentanza,  poiché  resterebbe  ferma  l'elezione  diretta  a  suffragio universale da parte del popolo per entrambi i rami del Parlamento senza comprometterne le funzioni. Sarà in tal modo possibile conseguire anche ingenti riduzioni di spesa poiché il numero complessivo dei senatori e dei deputati risulterà quasi dimezzato.
 
-Occorre  introdurre  forme  di  vincolo  di  mandato  per  i  parlamentari,  per  contrastare  il sempre crescente fenomeno del trasformismo. Del resto, altri ordinamenti, anche europei,
+Occorre  introdurre  forme  di  vincolo  di  mandato  per  i  parlamentari,  per  contrastare  il sempre crescente fenomeno del trasformismo. Del resto, altri ordinamenti, anche europei, contengono previsioni volte a impedire le defezioni e a far sì che i gruppi parlamentari siano sempre espressione di forze politiche presentatesi dinanzi agli elettori, come si può ricavare dall’articolo 160 della Costituzione portoghese o dalla disciplina  dei  gruppi parlamentari in Spagna.
 
-contengono previsioni volte a impedire le defezioni e a far sì che i gruppi parlamentari siano sempre espressione di forze politiche presentatesi dinanzi agli elettori, come si può ricavare dall’articolo 160 della Costituzione portoghese o dalla disciplina  dei  gruppi parlamentari in Spagna.
+È  inoltre  fondamentale  potenziare  un  imprescindibile  istituto  di  democrazia  diretta  già previsto dal nostro ordinamento costituzionale: il referendum abrogativo. Per incentivare forme di partecipazione attiva dei cittadini alla vita politica nazionale occorre cancellare il quorum strutturale - ovvero  la  necessità  della  partecipazione  alla  votazione  della maggioranza  degli  aventi  diritto - al  fine  di  rendere  efficace  e  cogente  l'istituto referendario.  Ulteriore  obiettivo  di  questa  proposta,  nel  solco  dello  spirito  che  anima l'articolo  75  della  Costituzione,  è  quello  di  scoraggiare,  in  ogni  forma,  l'astensionismo elettorale,  spesso  strumentalizzato  per  incentivare  il  non  voto,  al  fine  di  sabotare  le consultazioni referendarie. Sempre allo scopo di incentivare la partecipazione diretta dei cittadini alla vita politica del Paese sosteniamo l’introduzione del referendum propositivo, ossia un mezzo volto a trasformare in legge proposte avanzate dai cittadini e votate dagli stessi.
 
-È  inoltre  fondamentale  potenziare  un  imprescindibile  istituto  di  democrazia  diretta  già previsto dal nostro ordinamento costituzionale: il referendum abrogativo. Per incentivare forme di partecipazione attiva dei cittadini alla vita politica nazionale occorre cancellare il
+È poi necessario rendere obbligatoria la pronuncia del Parlamento sui disegni di legge di iniziativa popolare, con puntuale calendarizzazione.
 
-quorum strutturale - ovvero  la  necessità  della  partecipazione  alla  votazione  della
+Per migliorare il rapporto tra cittadini e istituzioni intendiamo inoltre intervenire su quelle fondazioni,  direttamente  o  indirettamente  collegate  a  partiti  politici,  introducendo adeguate misure per garantire la massima trasparenza dei finanziamenti ricevuti e delle attività finanziarie svolte.  
 
-maggioranza  degli  aventi  diritto - al  fine  di  rendere  efficace  e  cogente  l'istituto
+Altre  questioni  da  affrontare  in  termini costituzionali sono: l’abolizione del Consiglio Nazionale dell’Economia e del Lavoro, istituzione rivelatasi inefficace rispetto agli scopi per i quali era stata concepita, e l’affermazione del principio della prevalenza della nostra Costituzione  sul  diritto  comunitario,  in  analogia  al  modello  tedesco,  fermo  restando  il rispetto dell’articolo 11 della Costituzione.
 
-referendario.  Ulteriore  obiettivo  di  questa  proposta,  nel  solco  dello  spirito  che  anima
+Occorre prevedere una maggiore flessibilità dell’azione di governo in modo tale da poter far  fronte  efficacemente  ai  diversi  cicli  economici, prevedendo  il  superamento  della regola dell’equilibrio  di  bilancio,  che  rende  oggettivamente  impossibile  un’efficace azione anticiclica dello Stato. 
 
-l'articolo  75  della  Costituzione,  è  quello  di  scoraggiare,  in  ogni  forma,  l'astensionismo
+Sotto  il  profilo  del  regionalismo,  l’impegno  sarà  quello  di  porre  come  questione prioritaria nell’agenda di Governo l’attribuzione, per tutte le Regioni che motivatamente lo richiedano, di maggiore autonomia in attuazione dell’art. 116, terzo comma, della Costituzione,  portando  anche  a  rapida  conclusione  le  trattative  tra  Governo  e  Regioni attualmente   aperte.   Il riconoscimento   delle   ulteriori   competenze   dovrà   essere accompagnato dal trasferimento delle risorse necessarie per un autonomo esercizio delle stesse. Alla maggiore autonomia dovrà infatti accompagnarsi una maggiore responsabilità sul territorio, in termini di equo soddisfacimento dei servizi a garanzia dei propri cittadini e in termini di efficienza ed efficacia dell’azione svolta. Questo percorso di rinnovamento dell’assetto istituzionale dovrà dare sempre più forza al regionalismo applicando, regione per regione, la logica della geometria variabile che tenga conto sia delle peculiarità e delle specificità delle diverse realtà territoriali sia della solidarietà nazionale, dando spazio alle energie positive ed alle spinte propulsive espresse dalle collettività locali.
 
-elettorale,  spesso  strumentalizzato  per  incentivare  il  non  voto,  al  fine  di  sabotare  le
+Occorre  garantire  i  trasferimenti  necessari  agli  enti  territoriali  e  una  contestuale cessazione delle “politiche di tagli” compiute dagli ultimi Governi. 
 
-consultazioni referendarie. Sempre allo scopo di incentivare la partecipazione diretta dei
+C’è ancora molto da fare per avvicinare le decisioni pubbliche ai cittadini. Un modo che sembra suggerito  anche dagli articoli 5 e  118 della  Costituzione,  consiste nel  trasferire funzioni amministrative dallo Stato alle Regioni e poi ai Comuni secondo il principio di sussidiarietà.
 
-cittadini alla vita politica del Paese sosteniamo l’introduzione del referendum propositivo,
+In  tale  ambito,  si  intende  rilanciare  anche  il  disegno  attuativo  delle  disposizioni costituzionali su Roma Capitale (art. 114 Cost.) con legge dello Stato. Verrà in tale modo sancito un nuovo Patto tra la Repubblica e la sua Capitale, restituendole nuova e definitiva dignità.
 
-ossia un mezzo volto a trasformare in legge proposte avanzate dai cittadini e votate dagli
+Occorre inoltre utilizzare il modello dei “costi standard” per i servizi regionali e locali. 
 
-stessi.
+Per semplificare la vita dei cittadini e delle Istituzioni occorre diminuire drasticamente il numero delle norme in vigore e fare in modo che le leggi siano attuate. È altresì necessario verificare lo stato di attuazione delle singole disposizioni e la relativa efficacia anche con un bilancio dei risultati concreti della loro attuazione. In particolare occorre fare il “tagliando alle leggi”, per valutare se gli effetti ottenuti nel lungo  periodo  siano  quelli  originariamente  proposti  e,  nel  caso,  se  siano  necessarie modifiche, integrazioni o sia addirittura opportuno procedere alla loro abrogazione.
 
-È poi necessario rendere obbligatoria la pronuncia del Parlamento sui disegni di legge di
-
-iniziativa popolare, con puntuale calendarizzazione.
-
-Per migliorare il rapporto tra cittadini e istituzioni intendiamo inoltre intervenire su quelle
-
-fondazioni,  direttamente  o  indirettamente  collegate  a  partiti  politici,  introducendo
-
-adeguate misure per garantire la massima trasparenza dei finanziamenti ricevuti e delle
-
-attività finanziarie svolte.  
-
-Altre  questioni  da  affrontare  in  termini costituzionali sono: l’abolizione del Consiglio
-
-Nazionale dell’Economia e del Lavoro, istituzione rivelatasi inefficace rispetto agli scopi
-
-per i quali era stata concepita, e l’affermazione del principio della prevalenza della nostra
-
-Costituzione  sul  diritto  comunitario,  in  analogia  al  modello  tedesco,  fermo  restando  il
-
-rispetto dell’articolo 11 della Costituzione.
-
-Occorre prevedere una maggiore flessibilità dell’azione di governo in modo tale da poter
-
-far  fronte  efficacemente  ai  diversi  cicli  economici, prevedendo  il  superamento  della
-
-regola  dell’equilibrio  di  bilancio,  che  rende  oggettivamente  impossibile  un’efficace azione anticiclica dello Stato. 
-
-Sotto  il  profilo  del  regionalismo,  l’impegno  sarà  quello  di  porre  come  questione prioritaria nell’agenda di Governo l’attribuzione, per tutte le Regioni che motivatamente lo richiedano, di maggiore autonomia in attuazione dell’art. 116, terzo comma, della Costituzione,  portando  anche  a  rapida  conclusione  le  trattative  tra  Governo  e  Regioni attualmente   aperte.   Il riconoscimento   delle   ulteriori   competenze   dovrà   essere accompagnato dal trasferimento delle risorse necessarie per un autonomo esercizio delle stesse. Alla maggiore autonomia dovrà infatti accompagnarsi una maggiore responsabilità sul territorio, in termini di equo soddisfacimento dei servizi a garanzia dei propri cittadini e in termini di efficienza ed efficacia dell’azione svolta. Questo percorso di rinnovamento dell’assetto istituzionale dovrà dare sempre più forza al regionalismo applicando, regione per
-
-regione, la logica della geometria variabile che tenga conto sia delle peculiarità e delle specificità delle diverse realtà territoriali sia della solidarietà nazionale, dando spazio alle energie positive ed alle spinte propulsive espresse dalle collettività locali.
-
-Occorre  garantire  i  trasferimenti  necessari  agli  enti  territoriali  e  una  contestuale cessazione delle “politiche di tagli” compiute dagli ultimi Governi.
-
-C’è ancora molto da fare per avvicinare le decisioni pubbliche ai cittadini. Un modo che
-
-sembra suggerito  anche dagli articoli 5 e  118 della  Costituzione,  consiste nel  trasferire
-
-funzioni amministrative dallo Stato alle Regioni e poi ai Comuni secondo il principio di sussidiarietà.
-
-In  tale  ambito,  si  intende  rilanciare  anche  il  disegno  attuativo  delle  disposizioni costituzionali su Roma Capitale (art. 114 Cost.) con legge dello Stato. Verrà in tale modo
-
-sancito un nuovo Patto tra la Repubblica e la sua Capitale, restituendole nuova e definitiva
-
-dignità.
-
-Occorre inoltre utilizzare il modello dei “costi standard” per i servizi regionali e locali.
-
-Per semplificare la vita dei cittadini e delle Istituzioni occorre diminuire drasticamente il numero delle norme in vigore e fare in modo che le leggi siano attuate. È altresì necessario verificare lo stato di attuazione delle singole disposizioni e la relativa efficacia anche con
-
-un bilancio dei risultati concreti della loro attuazione. In particolare occorre fare il “tagliando alle leggi”, per valutare se gli effetti ottenuti nel lungo  periodo  siano  quelli  originariamente  proposti  e,  nel  caso,  se  siano  necessarie modifiche, integrazioni o sia addirittura opportuno procedere alla loro abrogazione.
-
-Per  garantire  l’efficacia  dei  servizi  dello  Stato  ai  cittadini  e  per  dare  spazio  alle competenze   professionali del   personale   e   della   dirigenza   pubblica,   è   necessario semplificare e uniformare i procedimenti nonché razionalizzare e accorpare le numerose banche dati pubbliche oggi esistenti.
+Per  garantire  l’efficacia  dei  servizi   dello  Stato  ai  cittadini  e  per  dare  spazio  alle competenze   professionali del   personale   e   della   dirigenza   pubblica,   è   necessario semplificare e uniformare i procedimenti nonché razionalizzare e accorpare le numerose banche dati pubbliche oggi esistenti.
 
 Occorre uniformare i criteri di nomina delle autorità amministrative indipendenti.
 
-È opportuno introdurre il principio della cittadinanza digitale dalla nascita, prevedendo
+È opportuno introdurre il principio della cittadinanza digitale dalla nascita, prevedendo l’accesso gratuito alla rete internet per ogni cittadino. 
 
-l’accesso gratuito alla rete internet per ogni cittadino. 
-
-È inoltre essenziale introdurre un efficace sistema di valutazione delle performances della
-
-pubblica  amministrazione  nel  suo  complesso,  del  personale  e  della  dirigenza  pubblica,
-
-anche attraverso il coinvolgimento dell’utenza.
+È inoltre essenziale introdurre un efficace sistema di valutazione delle performances della pubblica  amministrazione  nel  suo  complesso,  del  personale  e  della  dirigenza  pubblica, anche attraverso il coinvolgimento dell’utenza.
 
 .. _h3f7968544c453851a682a6d407b2b:
 
 SANITÀ
 ******
 
-È  prioritario  preservare  l’attuale  modello  di  gestione  del  servizio  sanitario  a finanziamento  prevalentemente  pubblico  e tutelare  il  principio  universalistico  su  cui  si
+È  prioritario  preservare  l’attuale  modello  di  gestione  del  servizio  sanitario  a finanziamento  prevalentemente  pubblico  e tutelare  il  principio  universalistico  su  cui  si fonda  la  legge  n.  833  del  1978  istitutiva  del  Servizio  Sanitario  Nazionale.  Tutelare  il servizio sanitario nazionale significa salvaguardare lo stato di salute del Paese, garantire equità nell’accesso alle cure e uniformità dei livelli essenziali di assistenza. 
 
-fonda  la  legge  n.  833  del  1978  istitutiva  del  Servizio  Sanitario  Nazionale.  Tutelare  il servizio sanitario nazionale significa salvaguardare lo stato di salute del Paese, garantire
-
-equità nell’accesso alle cure e uniformità dei livelli essenziali di assistenza.
-
-In tale ottica si ritiene che siano e saranno utili diverse azioni di tipo strutturale, partendo da  un  intervento  incisivo  sulla  dirigenza  sanitaria, ovvero  sui  gestori  della  sanità, che dovranno essere adeguatamente e preventivamente formati per garantire la sostenibilità e la qualità del sistema salute e scelti secondo la competenza e il merito, non sulla base di logiche politiche o partitiche. Bisogna rescindere il rapporto dannoso e arcaico fra politica
-
-e sanità prevedendo nuovi e diversi criteri di nomina sia dei medesimi direttori generali, sia dei direttori sanitari e amministrativi, così anche dei dirigenti di strutture complesse. 
+In tale ottica si ritiene che siano e saranno utili diverse azioni di tipo strutturale, partendo da un  intervento  incisivo  sulla  dirigenza  sanitaria, ovvero  sui  gestori  della  sanità, che dovranno essere adeguatamente e preventivamente formati per garantire la sostenibilità e la qualità del sistema salute e scelti secondo la competenza e il merito, non sulla base di logiche politiche o partitiche. Bisogna rescindere il rapporto dannoso e arcaico fra politica e sanità prevedendo nuovi e diversi criteri di nomina sia dei medesimi direttori generali, sia dei direttori sanitari e amministrativi, così anche dei dirigenti di strutture complesse.  
 
 È  necessario  garantire  anche  la  trasparenza  e la valutazione dell’operato dei direttori generali in termini di raggiungimento degli obiettivi di salute e di bilancio nella gestione delle aziende.
 
 La  sanità  dovrà  essere  finanziata  prevalentemente  dal  sistema  fiscale  e,  dunque,  dovrà essere ridotta al minimo la compartecipazione dei singoli cittadini.
 
-È necessario recuperare integralmente tutte le risorse economiche sottratte in questi anni con  le  diverse  misure  di  finanza  pubblica,  garantendo  una  sostenibilità  economica effettiva ai livelli essenziali di assistenza attraverso il rifinanziamento del fondo sanitario
+È necessario recuperare integralmente tutte le risorse economiche sottratte in questi anni con  le  diverse  misure  di  finanza  pubblica,  garantendo  una  sostenibilità  economica effettiva ai livelli essenziali di assistenza attraverso il rifinanziamento del fondo sanitario nazionale, così da risolvere alcuni dei problemi strutturali.
 
-nazionale, così da risolvere alcuni dei problemi strutturali.
-
-Il recupero delle risorse avverrà grazie ad una efficace lotta agli sprechi e alle inefficienze,
-
-e  grazie alla  revisione  della governance farmaceutica e sanitaria, all’attuazione della centralizzazione degli acquisti, all’informatizzazione e digitalizzazione del SSN, alla revisione   delle   procedure   di   convenzionamento   e   accreditamento,   alla   lotta   alla corruzione e alla promozione della trasparenza.
+Il recupero delle risorse avverrà grazie ad una efficace lotta agli sprechi e alle inefficienze, e  grazie alla  revisione  della governance farmaceutica e sanitaria, all’attuazione della centralizzazione degli acquisti, all’informatizzazione e digitalizzazione del SSN, alla revisione   delle   procedure   di   convenzionamento   e   accreditamento,   alla   lotta   alla corruzione e alla promozione della trasparenza.
 
 È  necessario  realizzare  l’informatizzazione  del  SSN  con  particolare  riferimento  al Fascicolo Sanitario Elettronico, alle ricette digitali, alla dematerializzazione dei referti e cartelle  cliniche  e  alle  prenotazioni  e  pagamenti  online,  così da  consentire  una  reale trasparenza e un efficace controllo in termini di verifica immediata e pubblica dei risultati gestionali. È necessario, altresì, dare evidenza del rapporto esistente tra i rimborsi a carico del  SSN  e  il  risultato  clinico  in  termini di  efficacia  e  appropriatezza;  avviare  e implementare la telemedicina grazie a tutte le tecnologie innovative, in modo da ridurre gli  spostamenti  dei  pazienti,  abbattere  i  costi  e  garantire  cure  domiciliari  di  maggiore qualità.
 
-Occorre garantire, implementare e integrare i servizi socio-sanitari, superando il modello
+Occorre garantire, implementare e integrare i servizi socio-sanitari, superando il modello “ospedalo - centrico”. La risposta assistenziale ospedaliera nella fase acuta della malattia deve essere garantita ed è nel contempo necessario sviluppare in maniera diffusa i servizi territoriali, con standard organizzativi e con costi di accesso ai servizi omogenei e pre-definiti, assicurando la presa in carico dell’utente, attraverso un suo specifico percorso socio - sanitario   e   attraverso   più   idonei   servizi   di   prevenzione.   È   indispensabile l’implementazione di un coordinamento territoriale a livello di distretto sanitario, così da orientare e indirizzare gli utenti nei servizi territoriali e ospedalieri disponibili, favorendo la scelta appropriata del luogo di cura.
 
-“ospedalo - centrico”. La risposta assistenziale ospedaliera nella fase acuta della malattia
-
-deve essere garantita ed è nel contempo necessario sviluppare in maniera diffusa i servizi
-
-territoriali, con standard organizzativi e con costi di accesso ai servizi omogenei e pre-definiti, assicurando la presa in carico dell’utente, attraverso un suo specifico percorso socio - sanitario   e   attraverso   più   idonei   servizi   di   prevenzione.   È   indispensabile l’implementazione di un coordinamento territoriale a livello di distretto sanitario, così da orientare e indirizzare gli utenti nei servizi territoriali e ospedalieri disponibili, favorendo la scelta appropriata del luogo di cura.
-
-L’integrazione socio - sanitaria si realizza appieno quando è soddisfatto, in continuità, il bisogno   di   salute   nella   componente   sanitaria   e   in   quella   di   protezione   sociale. L’integrazione  socio - sanitaria   comporta,   anche   in   termini   economici,   il   diverso coinvolgimento  delle  Regioni  e  dei  Comuni,  i  cui  strumenti  di  programmazione  sono fondamentali per realizzare una co-progettazione efficace. Il ruolo dei Comuni non è mai
-
-stato valorizzato appieno, nonostante la ratio sottesa del coinvolgimento sia proprio quella di  soddisfare  i  bisogni  di  assistenza  del  territorio  e  dei  cittadini  che  lo  abitano.  
+L’integrazione socio - sanitaria si realizza appieno quando è soddisfatto, in continuità, il bisogno   di   salute   nella   componente   sanitaria   e   in   quella   di   protezione   sociale.  L’integrazione  socio - sanitaria   comporta,   anche   in   termini   economici,   il   diverso coinvolgimento  delle  Regioni  e  dei  Comuni,  i  cui  strumenti  di  programmazione  sono fondamentali per realizzare una co-progettazione efficace. Il ruolo dei Comuni non è mai stato valorizzato appieno, nonostante la ratio sottesa del coinvolgimento sia proprio quella di  soddisfare  i  bisogni  di  assistenza  del  territorio  e  dei  cittadini  che  lo  abitano.   
 
 È necessario  garantire  adeguate  risorse  economiche  e  strutturali  ai  servizi sociosanitari territoriali di prossimità e domiciliari, proprio potenziando anche il ruolo dei Comuni, in una  logica  di trasversalità che da un lato si occupa dei bisogni del singolo e dall’altro delle esigenze della comunità locale.  Nell’ottica di garantire un'efficace e capillare sostegno  ai  servizi  territoriali  dovrebbe  essere  rivisto  anche  il  ruolo  dei  medici  di medicina generale.
 
-È improcrastinabile intervenire sui tempi di attesa ai Pronto soccorso, riducendo i tempi di accesso attraverso l’implementazione di strutture a bassa intensità di cura. Bisogna delineare  percorsi  di  assistenza  e  di  cura  personalizzati  e  vicini al  cittadino  oltre  che adeguatamente accessibili, riordinare il sistema di accesso alle prestazioni nell’ottica di ridurne  i  tempi  di  attesa, eliminare  altresì  ogni  forma  di  spreco  che  derivi  da  una  non appropriata organizzazione dei servizi e dell’assistenza e da una governance sanitaria non
+È improcrastinabile intervenire sui tempi di attesa ai Pronto soccorso, riducendo i tempi di accesso attraverso l’implementazione di strutture a bassa intensità di cura. Bisogna delineare  percorsi  di  assistenza  e  di  cura  personalizzati  e  vicini al  cittadino  oltre  che adeguatamente accessibili, riordinare il sistema di accesso alle prestazioni nell’ottica di ridurne  i  tempi  di  attesa, eliminare  altresì  ogni  forma  di  spreco  che  derivi  da  una  non appropriata organizzazione dei servizi e dell’assistenza e da una governance sanitaria non adeguata, da un mancato ammodernamento tecnologico e digitale del servizio sanitario nazionale.  È  necessario  garantire  che  non  vi  sia  alcuno  squilibrio  tra  le  prestazioni  istituzionali e quelle erogate in regime di libera professione, soprattutto con riguardo ai tempi di attesa.
 
-adeguata, da un mancato ammodernamento tecnologico e digitale del servizio sanitario
+Il  problema  dei  tempi  di  attesa  è  susseguente  anche  alla  diffusa  carenza  di  medici specialisti,  infermieri   e   personale   sanitario.   È   dunque   indispensabile   assumere  il personale medico e sanitario necessario, anche per dare attuazione all’articolo 14 della legge n. 161/2014. I posti per la formazione specialistica dei medici dovrebbero essere determinati dalle reali necessità  assistenziali  e  tenendo  conto  anche  dei  pensionamenti,  assicurando  quindi un’armonizzazione tra posti nei corsi di laurea e posti nel corso di specializzazione. La realtà è che quest’armonizzazione non c’è e i posti per la formazione specialistica sono di  fatto  determinati  da  due  fattori:  la  capacità  delle  scuole  universitarie  di  accogliere medici in formazione e il finanziamento delle borse di studio da parte del MIUR. Dunque, se da un lato potrà essere necessario aumentare il numero dei laureati in medicina, anche rivedendo il numero chiuso, dall’altro sarà necessario aumentare le borse di studio per gli specializzandi.  Bisogna  consentire  più  diffusamente  che  il  medico  neolaureato  abbia accesso  nella  struttura  sanitaria  per  conseguire  le  abilità  teoriche  e  tecnico - pratiche necessarie allo svolgimento della specializzazione medica prescelta (art. 22 del “Patto della salute” del 2014). 
 
-nazionale.  È  necessario  garantire  che  non  vi  sia  alcuno  squilibrio  tra  le  prestazioni
+Deve  essere  affrontato  il  problema  dell’invecchiamento  della  popolazione  e  dei susseguenti  problemi  correlati  alla  cronicità  delle  patologie  e  alla  comorbilità.  In  tale ottica è necessario garantire la diffusione capillare di strutture socio-sanitarie e a bassa intensità di cura. Devono altresì essere implementate le strutture di sostegno alle patologie cronico-degenerative ed oncologiche e bisogna garantire risorse adeguate per l’assistenza, diretta e personalizzata, dei soggetti affetti da malattie rare e croniche. 
 
-istituzionali e quelle erogate in regime di libera professione, soprattutto con riguardo ai tempi di attesa.
+Le prime vittime di un sistema sociale imperniato sull’utilitarismo e sul profitto, insieme ai disabili a qualsiasi titolo, diventano inevitabilmente gli anziani. È necessario rendere obbligatorio l’inserimento di una rappresentanza significativa dei pazienti (diretta o dei familiari)  ai  vertici  gestionali  delle  strutture  assistenziali  dedicate  all’età  avanzata direttamente inserite nel SSN o per le strutture convenzionate. Solo il controllo diretto e capillare degli interessati può garantire il rispetto di quei parametri di civiltà del vivere, troppo  spesso  disattesi  in  strutture  che  frequentemente  si  configurano  come  atroci terminali  di  “esistenze  non  più  funzionali  al  sistema”,  piuttosto  che  ambienti  dove avviarsi serenamente e con dignità al naturale concludersi della propria vita. 
 
-Il  problema  dei  tempi  di  attesa  è  susseguente  anche  alla  diffusa  carenza  di  medici specialisti,  infermieri   e   personale   sanitario.   È   dunque   indispensabile   assumere   il personale medico e sanitario necessario, anche per dare attuazione all’articolo 14 della legge n. 161/2014. I posti per la formazione specialistica dei medici dovrebbero essere determinati dalle reali necessità  assistenziali  e  tenendo  conto  anche  dei  pensionamenti,  assicurando  quindi un’armonizzazione tra posti nei corsi di laurea e posti nel corso di specializzazione. La realtà è che quest’armonizzazione non c’è e i posti per la formazione specialistica sono di  fatto  determinati  da  due  fattori:  la  capacità  delle  scuole  universitarie  di  accogliere medici in formazione e il finanziamento delle borse di studio da parte del MIUR. Dunque, se da un lato potrà essere necessario aumentare il numero dei laureati in medicina, anche rivedendo il numero chiuso, dall’altro sarà necessario aumentare le borse di studio per gli specializzandi.  Bisogna  consentire  più  diffusamente  che  il  medico  neolaureato  abbia accesso  nella  struttura  sanitaria  per  conseguire  le  abilità  teoriche  e  tecnico - pratiche necessarie allo svolgimento della specializzazione medica prescelta (art. 22 del “Patto della salute” del 2014).
-
-Deve  essere  affrontato  il  problema  dell’invecchiamento  della  popolazione  e  dei susseguenti  problemi  correlati  alla  cronicità  delle  patologie  e  alla  comorbilità.  In  tale ottica è necessario garantire la diffusione capillare di strutture socio-sanitarie e a bassa
-
-intensità di cura. Devono altresì essere implementate le strutture di sostegno alle patologie
-
-cronico-degenerative ed oncologiche e bisogna garantire risorse adeguate per l’assistenza,
-
-diretta e personalizzata, dei soggetti affetti da malattie rare e croniche.
-
-Le prime vittime di un sistema sociale imperniato sull’utilitarismo e sul profitto, insieme
-
-ai disabili a qualsiasi titolo, diventano inevitabilmente gli anziani. È necessario rendere
-
-obbligatorio l’inserimento di una rappresentanza significativa dei pazienti (diretta o dei
-
-familiari)  ai  vertici  gestionali  delle  strutture  assistenziali  dedicate  all’età  avanzata
-
-direttamente inserite nel SSN o per le strutture convenzionate. Solo il controllo diretto e capillare degli interessati può garantire il rispetto di quei parametri di civiltà del vivere,
-
-troppo  spesso  disattesi  in  strutture  che  frequentemente  si  configurano  come  atroci
-
-terminali  di  “esistenze  non  più  funzionali  al  sistema”,  piuttosto  che  ambienti  dove
-
-avviarsi serenamente e con dignità al naturale concludersi della propria vita.
-
-Pur con l’obiettivo di tutelare la salute individuale e collettiva, garantendo le necessarie 
-
-coperture  vaccinali,  va  affrontata  la  tematica  del  giusto  equilibrio  tra  il  diritto
-
-all’istruzione e il diritto alla salute,  tutelando  i  bambini  in  età  prescolare  e  scolare  che
-
-potrebbero essere a rischio di esclusione sociale.
+Pur con l’obiettivo di tutelare la salute individuale e collettiva, garantendo le necessarie  coperture  vaccinali,  va  affrontata  la  tematica  del  giusto  equilibrio  tra  il  diritto all’istruzione e il diritto alla salute,  tutelando  i  bambini  in  età  prescolare  e  scolare  che potrebbero essere a rischio di esclusione sociale.
 
 .. _h722f725f314e184423752840746a2249:
 
@@ -1064,9 +690,7 @@ SICUREZZA, LEGALITÀ E FORZE DELL’ORDINE
 Forze dell’ordine
 =================
 
-Relativamente  alle  Forze  dell'ordine  è  necessario  aumentare  i  fondi  a  disposizione del
-
-comparto per prevedere il potenziamento degli organici, con previsione di aumento del personale, rinnovo dei contratti in essere e riordino delle carriere. L’aumento di fondi è necessario per effettuare investimenti in particolare nelle seguenti dotazioni: autovetture,  armi  non  letali  come taserokey  defender,  nonché  armi  e giubbotti antiproiettile adeguati ai rischi connessi alle minacce terroristiche.
+Relativamente  alle  Forze  dell'ordine  è  necessario  aumentare  i  fondi  a  disposizione del comparto per prevedere il potenziamento degli organici, con previsione di aumento del personale, rinnovo dei contratti in essere e riordino delle carriere. L’aumento di fondi è necessario per effettuare investimenti in particolare nelle seguenti dotazioni: autovetture,  armi  non  letali  come taserokey  defender,  nonché  armi  e giubbotti antiproiettile adeguati ai rischi connessi alle minacce terroristiche.
 
 Coloro che garantiscono la sicurezza dei cittadini devono poter operare in condizioni di massima protezione individuale, riducendo il rischio di lesioni. È fondamentale pertanto investire nella formazione e in corsi di addestramento anti - terrorismo (C.A.T.) per tutti gli operatori che svolgono attività di controllo del territorio, compresi gli operatori delle specialità.
 
@@ -1079,22 +703,16 @@ Si  dovranno  dotare  tutti gli  agenti  che  svolgono  compiti  di  polizia  su
 Vigili del Fuoco
 ================
 
-Proponiamo   misure   per   garantire   la   stabilizzazione   dei   rapporti   di   lavoro,   il
-
-potenziamento della formazione e l’adeguamento delle retribuzioni ai livelli previsti per
-
-le forze dell’ordine.
+Proponiamo   misure   per   garantire   la   stabilizzazione   dei   rapporti   di   lavoro,   il potenziamento della formazione e l’adeguamento delle retribuzioni ai livelli previsti per le forze dell’ordine.
 
 .. _h1719534250294e334c4c3d7222433367:
 
 Polizia Locale e coordinamento con le forze dell’ordine statali
 ===============================================================
 
-Le problematiche afferenti il comparto della Polizia Locale sono dovute ad una normativa
+Le problematiche afferenti il comparto della Polizia Locale sono dovute ad una normativa ormai datata e ad una presenza di agenti sul territorio distribuita in modo non omogeneo. 
 
-ormai datata e ad una presenza di agenti sul territorio distribuita in modo non omogeneo.
-
-Si ritiene, pertanto, necessario un riordino del comparto della Polizia locale.
+Si  ritiene, pertanto, necessario un riordino del comparto della Polizia locale.
 
 Affinché  la  riforma  possa  effettivamente  produrre  risultati  positivi  per  una  maggiore sicurezza   sul   territorio   devono   essere   necessariamente   introdotti  i   seguenti   punti qualificanti: accesso alle banche dati SDI (sistema di indagine); migliore definizione dei compiti  della  polizia  locale;  obbligatorietà  di  dotazioni  strumentali  minime;  tavoli  di regionali  per  il  coordinamento  della  sicurezza  urbana  e  della  Polizia  Locale  con  sotto - ripartizione  in  aree  vaste;  contratto  collettivo.  Si  dovrà  puntare  a  scomputare  le  spese relative al settore dai vincoli di bilancio. 
 
@@ -1125,9 +743,7 @@ I  dati  sulle  occupazioni  abusive  indicano  che  esistono  circa  48.000  al
 
 Nei  confronti  delle  persone  occupanti  abusive  è  necessario  velocizzare  le  procedure  di sgombero attraverso l’azione ferma e tempestiva qualora non sussistano le condizioni di necessità certificate.
 
-L’accertamento dello stato di necessità è di competenza dell’Azienda Sanitaria Locale e dei   Servizi   Sociali   territoriali,   che   dovranno   attestare   le   condizioni   psico - fisiche
-
-deficitarie e l’incapacità oggettiva del soggetto a procurare il necessario sostentamento per  sé  ed  eventualmente  per  la  propria  famiglia.  Le  sole  condizioni  di  difficoltà economiche non possono mai giustificare l’occupazione abusiva. 
+L’accertamento dello stato di necessità è di competenza dell’Azienda Sanitaria Locale e dei   Servizi   Sociali   territoriali,   che   dovranno   attestare   le   condizioni   psico - fisiche deficitarie e l’incapacità oggettiva del soggetto a procurare il necessario sostentamento per  sé  ed  eventualmente  per  la  propria  famiglia.  Le  sole  condizioni  di  difficoltà economiche non possono mai giustificare l’occupazione abusiva.  
 
 Gli occupanti abusivi stranieri irregolari vanno rimpatriati.
 
@@ -1136,7 +752,7 @@ Gli occupanti abusivi stranieri irregolari vanno rimpatriati.
 Sicurezza stradale
 ==================
 
-È necessario l’aumento delle risorse per il piano nazionale di sicurezza stradale, nonché la verifica dell’efficacia degli interventi attraverso le Regioni Occorre implementare i controlli con necessarie limitazioni sulle patenti straniere.
+È necessario l’aumento delle risorse per il piano nazionale di sicurezza stradale, nonché la verifica dell’efficacia degli interventi attraverso le Regioni Occorre implementare i controlli con necessarie limitazioni sulle patenti straniere. 
 
 Occorre prevedere, in aggiunta ai sistemi punitivi (ad esempio, punti patente), un sistema di   premialità   per   chi   non   commette   infrazioni   alla   guida   (ad   esempio,   sconti sull’assicurazione RC, sconto sul bollo auto).
 
@@ -1145,17 +761,11 @@ Occorre prevedere, in aggiunta ai sistemi punitivi (ad esempio, punti patente), 
 Campi nomadi
 ============
 
-Negli ultimi anni il dilagare dei campi nomadi, l’aumento esponenziale di reati commessi
+Negli ultimi anni il dilagare dei campi nomadi, l’aumento esponenziale di reati commessi dai loro abitanti e le pessime condizioni igienico - sanitarie a cui sono sottoposti ha reso tale fenomeno un grave problema sociale con manifestazioni esasperate soprattutto nelle periferie urbane coinvolte. 
 
-dai loro abitanti e le pessime condizioni igienico - sanitarie a cui sono sottoposti ha reso tale fenomeno un grave problema sociale con manifestazioni esasperate soprattutto nelle periferie urbane coinvolte. 
+Ad oggi circa 40 mila Rom vivono nei campi nomadi e il 60 per cento sono minori.  Sono pertanto necessarie le seguenti azioni: chiusura di tutti i campi nomadi irregolari in attuazione  delle  direttive  comunitarie;  contrasto  ai  roghi  tossici;  obbligo  di  frequenza scolastica dei minori pena l’allontanamento dalla famiglia o perdita della responsabilità potestà genitoriale.
 
-Ad oggi circa 40 mila Rom vivono nei campi nomadi e il 60 per cento sono minori. 
-
-Sono pertanto necessarie le seguenti azioni: chiusura di tutti i campi nomadi irregolari in attuazione  delle  direttive  comunitarie;  contrasto  ai  roghi  tossici;  obbligo  di  frequenza scolastica dei minori pena l’allontanamento dalla famiglia o perdita della responsabilità potestà genitoriale.
-
-In  ogni  caso,  proponiamo  di  intervenire  per  il  pieno  superamento  dei  campi  Rom  in
-
-coerenza con l’ordinamento dell’unione europeo.
+In  ogni  caso,  proponiamo  di  intervenire  per  il  pieno  superamento  dei  campi  Rom  in coerenza con l’ordinamento dell’unione europeo.
 
 .. _h501953731f1c274e1963286b5e181f47:
 
@@ -1171,13 +781,7 @@ Se ben condotta e con l’ausilio di personale qualificato, la pratica motoria  
 
 La  pratica  motoria  e  sportiva  ha,  inoltre,  un’importante  valenza  sociale.  Lo  sport rappresenta  da  sempre  un  fondamentale  strumento  di  integrazione  e  trasmette  valori fondamentali al miglioramento dell’essere umano, anche come individuo. Per questo intendiamo  garantire  un  generale  miglioramento  degli  impianti  sportivi  in  tutto  il territorio, partendo da uno strumento che riteniamo fondamentale per raggiungere questo obiettivo:  l’istituzione  dell’anagrafe  degli  impianti  sportivi  sia  pubblici  che  privati (inclusi  quelli  scolastici,  universitari,  delle  forze  dell’ordine  e  militari).  L’anagrafe permetterà  di  conoscere  la  situazione  reale  degli  impianti  e  verificare  le  eventuali esigenze di ammodernamento e/o di realizzazione di nuove strutture sportive. Attraverso la  mappatura  degli  impianti  saremo  così  in  grado  di  intervenire  in  maniera  mirata  per allocare efficacemente le risorse da destinare alla ristrutturazione o alla nuova costruzione di strutture da dedicare alla pratica motoria e sportiva. 
 
-Occorre intervenire anche su aspetti che possano migliorare il funzionamento degli organi sportivi.  Ad  esempio,  riteniamo  necessaria  una  revisione  delle  attuali  competenze  del 
-
-Comitato  Olimpico  Nazionale  Italiano  (CONI).  Pur  ritenendo  necessario garantire al mondo  sportivo un’adeguata  autonomia,  risulta  altrettanto  importante  che  il  Governo assuma, con maggior attenzione, il ruolo di controllore delle modalità di assegnazione e di  spesa  delle  risorse  destinate  al  CONI.  Allo  stesso  tempo  è  al  Governo  che  spetta  il compito  di  emanare  le  linee  guida  fondamentali  relative  al  sistema  sport  e  alla  pratica motoria nel loro complesso. In altre parole, fatta salva l’autonomia e la discrezionalità delle scelte di natura tecnico – sportiva, che rimangono in capo al CONI, è necessario che il  Governo  sia  compartecipe  delle  modalità  con  le  quali  vengono  spesi  e  destinati  i
-
-contributi pubblici assegnati al CONI e trasmessi, poi, alle Federazioni. Infine, occorre
-
-che la società Coni Servizi disponga di una maggiore autonomia rispetto all’Ente Coni.
+Occorre intervenire anche su aspetti che possano migliorare il funzionamento degli organi sportivi.  Ad  esempio,  riteniamo  necessaria  una  revisione  delle  attuali  competenze  del  Comitato  Olimpico  Nazionale  Italiano  (CONI).  Pur  ritenendo  necessario garantire al mondo  sportivo un’adeguata  autonomia,  risulta  altrettanto  importante  che  il  Governo assuma, con maggior attenzione, il ruolo di controllore delle modalità di assegnazione e di  spesa  delle  risorse  destinate  al  CONI.  Allo  stesso  tempo  è  al  Governo  che  spetta  il compito  di  emanare  le  linee  guida  fondamentali  relative  al  sistema  sport  e  alla  pratica motoria nel loro complesso. In altre parole, fatta salva l’autonomia e la discrezionalità delle scelte di natura tecnico – sportiva, che rimangono in capo al CONI, è necessario che il  Governo  sia  compartecipe  delle  modalità  con  le  quali  vengono  spesi  e  destinati  i contributi pubblici assegnati al CONI e trasmessi, poi, alle Federazioni. Infine, occorre che la società Coni Servizi disponga di una maggiore autonomia rispetto all’Ente Coni.
 
 Sia  il  CONI  che  Coni  Servizi  devono  fornire  periodicamente  al  Governo  relazioni dettagliate e circostanziate circa la gestione e la destinazione delle risorse pubbliche. 
 
@@ -1196,9 +800,7 @@ Attraverso l’Istituto  del  Credito  Sportivo  (anche  grazie  ad  un  potenzi
 
 È necessario l’inserimento del laureato in scienze motorie nell’organico di ruolo della scuola primaria. Allo stesso modo occorre sostenere l’educazione fisica nella scuola primaria. Bisogna prevedere misure per sostenere l’associazionismo sportivo scolastico.
 
-Inoltre,  occorre  investire  in prevenzione  sanitaria  attraverso  il  sostegno  all’attività sportiva e progettualità territoriali, anche con visite mediche sportive gratuite nella scuola primaria. L’attività sportiva e motoria è sicuramente una nuova modalità operativa, forse l’unica a basso costo, per fare una corretta prevenzione e per contrastare alcune malattie
-
-croniche soprattutto di natura cardiovascolari.
+Inoltre,  occorre  investire  in prevenzione  sanitaria  attraverso  il  sostegno  all’attività sportiva e progettualità territoriali, anche con visite mediche sportive gratuite nella scuola primaria. L’attività sportiva e motoria è sicuramente una nuova modalità operativa, forse l’unica a basso costo, per fare una corretta prevenzione e per contrastare alcune malattie croniche soprattutto di natura cardiovascolari.
 
 .. _h3c165e3cf411b294a3546879283467:
 
@@ -1279,9 +881,7 @@ Il contributo concesso, che dovrà essere attentamente aggiornato sulla base del
 
 Risulta  necessario  introdurre  o  sperimentare  anche  altre  azioni  di  accompagnamento, quali  ad  esempio  meccanismi  premiali  per  l’incentivazione  dei  mezzi  a  bassissime emissioni, applicando la regola comunitaria del “chi inquina paga”.
 
-Il Piano Nazionale Infrastrutturale per la ricarica dei veicoli alimentati ad energia elettrica
-
-deve divenire uno strumento dinamico in grado di intercettare e risolvere in tempi rapidi le problematiche relative ad eventuali carenze infrastrutturali, sia a livello nazionale che locale, per contribuire attivamente allo sviluppo della mobilità elettrica.
+Il Piano Nazionale Infrastrutturale per la ricarica dei veicoli alimentati ad energia elettrica deve divenire uno strumento dinamico in grado di intercettare e risolvere in tempi rapidi le problematiche relative ad eventuali carenze infrastrutturali, sia a livello nazionale che locale, per contribuire attivamente allo sviluppo della mobilità elettrica. 
 
 È infine necessario concedere spazi pubblici per il car sharing a fronte di quote crescenti di vetture elettriche nella flotta.
 
@@ -1332,25 +932,19 @@ In considerazione del rifinanziamento delle risorse a favore degli enti locali p
 
 Un settore che genera il 14% di occupazione diretta ed indiretta solo nel nostro Paese e che nel mondo vale 1 lavoro su 10, è un settore chiave dello sviluppo economico, sociale e culturale.
 
-Nel turismo in Italia c'è una formazione specifica, ma troppo spesso non è sufficiente e soprattutto  adatta  a  preparare  adeguatamente  i  giovani  al  lavoro  reale  del  settore.  Gli interventi  da  realizzare  devono  essere  ad ampio  spettro  e  non  solo  finalizzati  alla specializzazione. 
+Nel turismo in Italia c'è una formazione specifica, ma troppo spesso non è sufficiente e soprattutto  adatta  a  preparare  adeguatamente  i  giovani  al  lavoro  reale  del  settore.  Gli interventi  da  realizzare  devono  essere  ad ampio  spettro  e  non  solo  finalizzati  alla specializzazione.  
 
-Il turismo inoltre è uno dei settori che può dare più lavoro ai giovani e sarà necessario incentivarne l’occupazione anche attraverso interventi di decontribuzione per alcuni anni (minimo  2)  alle  imprese  turistiche  che  assumono  i nostri  giovani.  Occupazione  e formazione sono strettamente legate e sarà necessario ristrutturarne le basi, partendo, ad esempio,   dal   riordino   della   professione   di   guida   turistica   (biglietto   da   visita importantissimo  per  i  turisti) e  da  una  trasformazione  degli  Istituti  Alberghieri  Statali verso la forma dei college specialistici (sul modello svizzero e francese).
+Il turismo inoltre è uno dei settori che può dare più lavoro ai giovani e sarà necessario incentivarne l’occupazione anche attraverso interventi di decontribuzione per alcuni anni (minimo  2)  alle  imprese  turistiche  che  assumono  i nostri  giovani.  Occupazione  e formazione sono strettamente legate e sarà necessario ristrutturarne le basi, partendo, ad esempio,   dal   riordino   della   professione   di   guida   turistica   (biglietto   da   visita importantissimo  per  i  turisti) e  da  una  trasformazione  degli  Istituti  Alberghieri  Statali verso la forma dei college specialistici (sul modello svizzero e francese). 
 
-A  livello  di  strategia  nazionale  va  recuperata  una  gestione  efficiente  ed  efficace  del
-
-marketing Paese realizzato attraverso l’Ente di Promozione del turismo che in questi anni ha fallito gli importanti obiettivi di promozione coordinata dell’Italia all’estero, ingoiando risorse  pubbliche  senza  il  minimo  controllo.
+A  livello  di  strategia  nazionale  va  recuperata  una  gestione  efficiente  ed  efficace  del marketing Paese realizzato attraverso l’Ente di Promozione del turismo che in questi anni ha fallito gli importanti obiettivi di promozione coordinata dell’Italia all’estero, ingoiando risorse  pubbliche  senza  il  minimo  controllo. 
 
 Gli interventi  che  ci  si  propone  in  questo ambito  passano  dunque  innanzitutto  per  una  ridefinizione  completa  del  sistema  di governance di ENIT e del suo funzionamento finanziario, economico ed operativo.
 
 L’intervento  complessivo  in  ambito  di  marketing  non  può  prescindere  dagli  interventi nell’ambito della digitalizzazione, affinché sia reale e diffusa, non solo con l’estensione del  wifi  sul  territorio, ma anche e soprattutto con l’implementazione di pratiche ed iniziative che consentano di governare realmente i flussi del turismo, anche e soprattutto in un’ottica predittiva.
 
-Il turismo nel mondo ormai è prevalentemente digitale: l’offerta e la domanda turistica si muovono   a   livello   globale   in   contesti   trasformati   digitalmente   ed   altamente 
+Il turismo nel mondo ormai è prevalentemente digitale: l’offerta e la domanda turistica si muovono   a   livello   globale   in   contesti   trasformati   digitalmente   ed   altamente  disintermediati,  come  accade  nei  settori  manifatturieri  tradizionali.  L’Italia  non  può restare  fuori  da  questa  trasformazione.  È  dunque  cruciale  governare  questo  importante ambito sia dal lato dell'offerta (destinazioni, vettori di trasporto, piattaforme e Olta, player social  globali,  ecc.)  che  da  quello  della  domanda  (ampliamento  dell'accesso  alle informazioni,   monitoraggio   ed   integrazione   delle   fonti,   gestione   dei   Big   Data, segmentazione, profilazione e definizione dei trend previsionali), attraverso la revisione delle piattaforme digitali esistenti e la realizzazione di una piattaforma nazionale unica dedicata  al  turismo  e  al  turista, non  solo  come  piattaforma  di  comunicazione  e promozione del Paese, ma anche come piattaforma di e-commerce del prodotto turistico culturale (prenotazione alberghi, tour, ristoranti, biglietteria museale e teatrale), al fine di riuscire  a  fare  dell'Italia  la  nazione  alla  quale  in  futuro  tutto  il  mondo  guarderà  come modello turistico, come accade oggi per altre eccellenze riconosciute universalmente. 
 
-disintermediati,  come  accade  nei  settori  manifatturieri  tradizionali.  L’Italia  non  può restare  fuori  da  questa  trasformazione.  È  dunque  cruciale  governare  questo  importante ambito sia dal lato dell'offerta (destinazioni, vettori di trasporto, piattaforme e Olta, player social  globali,  ecc.)  che  da  quello  della  domanda  (ampliamento  dell'accesso  alle informazioni,   monitoraggio   ed   integrazione   delle   fonti,   gestione   dei   Big   Data, segmentazione, profilazione e definizione dei trend previsionali), attraverso la revisione delle piattaforme digitali esistenti e la realizzazione di una piattaforma nazionale unica dedicata  al  turismo  e  al  turista, non  solo  come  piattaforma  di  comunicazione  e promozione del Paese, ma anche come piattaforma di e-commerce del prodotto turistico
-
-culturale (prenotazione alberghi, tour, ristoranti, biglietteria museale e teatrale), al fine di riuscire  a  fare  dell'Italia  la  nazione  alla  quale  in  futuro  tutto  il  mondo  guarderà  come modello turistico, come accade oggi per altre eccellenze riconosciute universalmente.
-
-Al di là dei vari “turismi” e delle specificità di prodotti turistici, la cui definizione ed interesse devono necessariamente scaturire dalla corretta analisi dei trend, ma soprattutto dalle considerazioni del settore privato, una priorità fondamentale è il turismo accessibile, che  non  deve  limitarsi  al  solo  abbattimento  delle  barriere  architettoniche,  perché  il prodotto turistico deve essere fruibile a tutti i livelli e in maniera inclusiva e sostenibile.
+Al di là dei vari “turismi” e delle specificità di prodotti turistici, la cui definizione ed interesse devono necessariamente scaturire dalla corretta analisi dei trend, ma soprattutto dalle considerazioni del settore privato, una priorità fondamentale è il turismo accessibile, che  non  deve  limitarsi  al  solo  abbattimento  delle  barriere  architettoniche,  perché  il prodotto turistico deve essere fruibile a tutti i livelli e in maniera inclusiva e sostenibile. 
 
 .. _h7e4e65434739664d635dd774640235b:
 
@@ -1388,11 +982,9 @@ Occorre inoltre diminuire le competenze dell’UE, riacquisendo quelle che non p
 
 Con lo spirito di ritornare all’impostazione pre Maastricht in cui gli Stati europei erano mossi  da  un  genuino  intento  di  pace,  fratellanza,  cooperazione  e  solidarietà  si  ritiene necessario rivedere, insieme ai partner europei, l’impianto della governance economica europea (politica monetaria unica, Patto di Stabilità e crescita, Fiscal compact, MES, etc.) attualmente basato sul predominio del mercato e sul rispetto di vincoli stringenti dal punto di vista economico e sociale.
 
-Occorre attuare una correzione  del  funzionamento  del mercato  interno che  tenga conto delle esigenze dei cittadini tesa a: ridurre e semplificare il complesso sistema di regole ad esso sotteso; debellare i fenomeni di dumping interno all’Unione; rendere prioritario il principio  di  precauzione  per  tutelare  la  salute  prima  di  ogni  interesse  economico; abbandonare ogni decisione di politica commerciale lesiva degli interessi delle piccole e medie  imprese;  puntare  su  sviluppo  e  innovazione,  salvaguardando  al  contempo  le caratteristiche  di  alto  livello  degli  standard  produttivi  europei  e  valorizzando  la  qualità
+Occorre attuare una correzione  del  funzionamento  del mercato  interno che  tenga conto delle esigenze dei cittadini tesa a: ridurre e semplificare il complesso sistema di regole ad esso sotteso; debellare i fenomeni di dumping interno all’Unione; rendere prioritario il principio  di  precauzione  per  tutelare  la  salute  prima  di  ogni  interesse  economico; abbandonare ogni decisione di politica commerciale lesiva degli interessi delle piccole e medie  imprese;  puntare  su  sviluppo  e  innovazione,  salvaguardando  al  contempo  le caratteristiche  di  alto  livello  degli  standard  produttivi  europei  e  valorizzando  la  qualità delle  nostre  eccellenze; contrastare la  contraffazione,  la  violazione  dei  marchi  e  la circolazione  del  falso  “made  in  Italy”  (spesso  equivocato  con  il  “Made  by  Italy”), imponendo una vera indicazione di origine obbligatoria sui prodotti. 
 
-delle  nostre  eccellenze; contrastare la  contraffazione,  la  violazione  dei  marchi  e  la circolazione  del  falso  “made  in  Italy”  (spesso  equivocato  con  il  “Made  by  Italy”), imponendo una vera indicazione di origine obbligatoria sui prodotti.
-
-Sotto il profilo del budget, occorre ridiscutere il contributo italiano alla UE in vista della programmazione  settennale  imminente, con  l’obiettivo  di  renderla  coerente  con  il presente contratto di governo.
+Sotto il profilo del budget, occorre ridiscutere il contributo italiano alla UE in vista della programmazione  settennale  imminente, con  l’obiettivo  di  renderla  coerente  con  il presente contratto di governo. 
 
 Ci  si  impegna  al  superamento  degli  effetti  pregiudizievoli  per  gli  interessi  nazionali derivanti dalla direttiva Bolkenstein.
 
@@ -1421,35 +1013,24 @@ Occorre  riformare  il  sistema  di  reclutamento  per  renderlo  meritocratico,
 
 Occorre incentivare l’introduzione di nuove norme per garantire al maggior numero possibile di studenti l’accesso ai gradi più alti degli studi. Tra questi figurano la necessità di  ampliare  gli  strumenti  e  le  risorse  per  il  diritto  allo  studio,  incrementando  così  la percentuale di laureati nel nostro Paese, oggi tra le più basse d’Europa, e la revisione del sistema di accesso ai corsi a numero programmato, attraverso l’adozione di un modello che  assicuri  procedure  idonee  a  verificare  le effettive  attitudini  degli  studenti  e  la possibilità  di  una  corretta  valutazione.  Amplieremo  la  platea  di  studenti  beneficiari dell'esenzione totale dal pagamento delle tasse di iscrizione all’università, la cd. “No - Tax area”.  Fondamentale  sarà  l’implementazione  dell’Alta  formazione  tecnologico - professionale.  Occorrerà  armonizzare  il  sistema  delle  lauree  professionalizzanti  e  degli ITS (Istituti Tecnici Superiori) al fine di aumentare il numero di studenti in questi percorsi di  formazione terziaria.
 
-Un intervento importante dovrà riguardare l'innovazione didattica ed in particolare quella
+Un intervento importante dovrà riguardare l'innovazione didattica ed in particolare quella digitale.  Sarà  incentivata  l'offerta  formativa  on  line  e  telematica  delle  università  statali attraverso  finanziamenti  finalizzati,  nonché  meglio  regolamentata  l'offerta  formativa delle università telematiche private.
 
-digitale.  Sarà  incentivata  l'offerta  formativa  on  line  e  telematica  delle  università  statali
-
-attraverso  finanziamenti  finalizzati,  nonché  meglio  regolamentata  l'offerta  formativa delle università telematiche private.
-
-Tra coloro che maggiormente hanno sofferto l’attuale condizione di difficoltà del sistema italiano  troviamo  il  personale  delle  nostre  università  e  dei  nostri  enti  di  ricerca. 
-
-Nonostante le  difficoltà e  le  scarse  risorse  a  disposizione,  il nostro  sistema è  riuscito a raggiungere  nel  suo  complesso  risultati  eccellenti.  Pertanto  è  necessario  incrementare significativamente  le  risorse  finanziarie  per  valorizzare  i  nostri  docenti  e  ricercatori, assicurando adeguate condizioni lavorative e superando la precarietà che in questi anni ha coinvolto in misura sempre maggiore anche il mondo universitario e della ricerca.
+Tra coloro che maggiormente hanno sofferto l’attuale condizione di difficoltà del sistema italiano  troviamo  il  personale  delle  nostre  università  e  dei  nostri  enti  di  ricerca.  Nonostante le  difficoltà e  le  scarse  risorse  a  disposizione,  il nostro  sistema è  riuscito a raggiungere  nel  suo  complesso  risultati  eccellenti.  Pertanto  è  necessario  incrementare significativamente  le  risorse  finanziarie  per  valorizzare  i  nostri  docenti  e  ricercatori, assicurando adeguate condizioni lavorative e superando la precarietà che in questi anni ha coinvolto in misura sempre maggiore anche il mondo universitario e della ricerca.
 
 Intendiamo intervenire con strumenti che liberino quelle università in cui è ancora forte la presenza di “baronati” che sfruttano in maniera illegittima le risorse e il personale. Per un  reale  rilancio  dei  nostri  atenei  occorre,  infatti,  garantire  la  presenza  di  sistemi realmente  meritocratici  ed  aperti  a  tutti  coloro  che  intendano  proseguire  nella  carriera accademica, senza  il  timore  di  veder  limitate  le  proprie  aspettative  da  coloro  che utilizzano  in  maniera  indebita  il  proprio  potere.  Occorre  inserire  un  sistema  di  verifica vincolante  sullo  svolgimento  effettivo,  da  parte  del  docente,  dei  compiti  di  didattica, ricerca e tutoraggio agli studenti.
 
-Non è più procrastinabile la semplificazione della legislazione universitaria attraverso la redazione di un testo unico.
+Non è più procrastinabile la semplificazione della legislazione universitaria attraverso la redazione di un testo unico. 
 
 Occorrerà apportare dei correttivi alla governance del sistema universitario e all’interno degli stessi atenei, ridisegnando il ruolo dell’ANVUR (Agenzia Nazionale di Valutazione del Sistema Universitario e della Ricerca) per renderlo uno strumento per il governo (e non di governo), e individuando puntualmente i soggetti che potrebbero contribuire nei processi decisionali, a cominciare dal CUN, organo elettivo di rappresentanza del mondo universitario.
 
-Gli Enti pubblici di Ricerca italiani (EPR) svolgono oggi attività essenziali per lo sviluppo della ricerca e dell’innovazione del nostro Paese. Il modello italiano prevede un sistema estremamente    frammentato,    scarso    coordinamento    fra    gli    enti    e    un    carente coinvolgimento sulle questioni di assoluta rilevanza strategica in materia di politiche per lo  sviluppo  del  Paese.  Per  coordinare  e  raccordare  strutturalmente  gli  Enti  e  Centri  di
-
-ricerca sarà creata un’Agenzia Nazionale della Ricerca.
-
+Gli Enti pubblici di Ricerca italiani (EPR) svolgono oggi attività essenziali per lo sviluppo della ricerca e dell’innovazione del nostro Paese. Il modello italiano prevede un sistema estremamente    frammentato,    scarso    coordinamento    fra    gli    enti    e    un    carente coinvolgimento sulle questioni di assoluta rilevanza strategica in materia di politiche per lo  sviluppo  del  Paese.  Per  coordinare  e  raccordare  strutturalmente  gli  Enti  e  Centri  di ricerca sarà creata un’Agenzia Nazionale della Ricerca. 
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Roma,  addì ________________2018**
+.. |STYLE0| replace:: **Bozza 17.05.2018, ore 11.00**
 
-.. |STYLE1| replace:: **Firma leggibile (nome e cognome per esteso) e qualifica del pubblico ufficiale che procede all’autenticazione**
-
-.. |STYLE2| replace:: **Ai sensi dell’articolo 65 del d.lgs. 30 giugno 2003, n. 196, i dati contenuti nel presente modulo saranno utilizzati per le sole finalità previste dal d.P.R. 30 marzo 1957, n. 361, e successive  modificazioni,  dal  d.lgs.  20  dicembre  1993,  n.  533,  nonché  dalla legge  27 dicembre 2001, n. 459, secondo le modalità a ciò strettamente collegate.**
+.. |STYLE1| replace:: **Roma,  addì ________________2018. Firma leggibile (nome e cognome per esteso) e qualifica del pubblico ufficiale che procede all’autenticazione. Ai sensi dell’articolo 65 del d.lgs. 30 giugno 2003, n. 196, i dati contenuti nel presente modulo saranno utilizzati per le sole finalità previste dal d.P.R. 30 marzo 1957, n. 361, e successive  modificazioni,  dal  d.lgs.  20  dicembre  1993,  n.  533,  nonché  dalla legge  27 dicembre 2001, n. 459, secondo le modalità a ciò strettamente collegate.**
 
 
 .. |LINK1| raw:: html
